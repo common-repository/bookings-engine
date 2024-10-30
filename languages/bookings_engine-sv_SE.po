@@ -1,0 +1,1047 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookings Engine Lite Version\n"
+"POT-Creation-Date: 2013-04-11 17:19+0530\n"
+"PO-Revision-Date: 2013-04-12 14:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\Dev6\\wp-content\\plugins\\bookings-"
+"engine\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bookingCalendar.php:28 bookingCalendarBackEnd.php:28
+msgid "Choose Service"
+msgstr "Välj tjänsten"
+
+#: bookingCalendar.php:34 bookingCalendarBackEnd.php:34
+msgid "Choose Availability"
+msgstr "Välj tillgänglighet"
+
+#: bookingCalendar.php:41 bookingCalendarBackEnd.php:41
+msgid "Fill in Information"
+msgstr "Fyll i information"
+
+#: bookingCalendar.php:48 bookingCalendarBackEnd.php:48
+msgid "Confirm Booking"
+msgstr "bekräfta bokning"
+
+#: bookingCalendar.php:60 bookingCalendarBackEnd.php:60 dashboard.php:189
+#: functions.php:1973 manageBlockOuts.php:32 manageCoupons.php:38
+#: manageServices.php:33
+msgid "Service"
+msgstr "tjänsten"
+
+#: bookingCalendar.php:61 bookingCalendarBackEnd.php:61 manageServices.php:34
+msgid "Cost"
+msgstr "Kostnad"
+
+#: bookingCalendar.php:62 bookingCalendarBackEnd.php:62 manageServices.php:35
+msgid "Type"
+msgstr "typ"
+
+#: bookingCalendar.php:111 bookingCalendarBackEnd.php:111 dashboard.php:555
+#: functions.php:527 functions.php:536
+msgid "Single Booking"
+msgstr "enda bokning"
+
+#: bookingCalendar.php:137 bookingCalendarBackEnd.php:137
+msgid "Please choose Service"
+msgstr "Vänligen välj tjänsten"
+
+#: bookingCalendar.php:297 bookingCalendarBackEnd.php:297
+msgid "Booking Details :"
+msgstr "Bokning detaljer:"
+
+#: bookingCalendar.php:330 bookingCalendarBackEnd.php:330
+msgid "Previous Step"
+msgstr "tidigare Steg"
+
+#: bookingCalendar.php:335 bookingCalendarBackEnd.php:335
+msgid "Next Step"
+msgstr "Nästa steg"
+
+#: bookingCalendar.php:406 bookingCalendarBackEnd.php:405
+msgid "Please choose atleast one Service"
+msgstr "Vänligen välj minst en tjänsten"
+
+#: bookingCalendar.php:430 bookingCalendarBackEnd.php:429
+msgid "Please choose Booking date"
+msgstr "Vänligen välj bokning datum"
+
+#: bookingCalendar.php:445 bookingCalendarBackEnd.php:444
+msgid "Please choose Booking date and time"
+msgstr "Vänligen välj bokning datum"
+
+#: bookingCalendar.php:703 bookingCalendarBackEnd.php:702
+msgid "Coupon is not valid"
+msgstr "Kupong är inte giltigt"
+
+#: bookings-engine.php:279 bookings-engine.php:299 dashboard.php:1196
+msgid "Book New Service"
+msgstr "Boka New tjänsten"
+
+#: dashboard.php:18 manageBlockOuts.php:9 manageBookingForm.php:9
+#: manageBookings.php:9 manageClients.php:9 manageCoupons.php:9
+#: manageEmailTemplate.php:9 manageReportBug.php:8 manageServices.php:9
+msgid "BOOKINGS ENGINE"
+msgstr "BOKNING MOTOR"
+
+#: dashboard.php:23 menus.php:8
+msgid "Dashboard"
+msgstr "instrumentbräda"
+
+#: dashboard.php:34
+msgid ""
+"You are using Lite Version of Bookings Engine. To enjoy full features, "
+"purchase Commercial Version now by clicking <a href='http://bookings-engine."
+"com' target='_blank'>here</a>. "
+msgstr ""
+"Du använder Lite versionen av bokningar Engine. Att njuta alla funktioner, "
+"köpa kommersiella versionen nu genom att klicka <a href='http://bookings-"
+"engine.com' target='_blank'> här </ a>."
+
+#: dashboard.php:40
+msgid "Action Panel"
+msgstr "åtgärd Panel"
+
+#: dashboard.php:49
+msgid "Book a Service"
+msgstr "Boka en tjänst"
+
+#: dashboard.php:58
+msgid "Add Services"
+msgstr "Lägg Tjänster"
+
+#: dashboard.php:67 manageBlockOuts.php:24 manageBlockOuts.php:35
+#: manageBookings.php:68 menus.php:33
+msgid "Block Outs"
+msgstr "blockera outs"
+
+#: dashboard.php:76 dashboard.php:1185 menus.php:23
+msgid "Coupons"
+msgstr "kuponger"
+
+#: dashboard.php:85 dashboard.php:758 menus.php:98
+msgid "Default Settings"
+msgstr "Standardinställningar"
+
+#: dashboard.php:93 dashboard.php:1163 functions.php:3312
+msgid "Reminder Settings"
+msgstr "påminnelse Inställningar"
+
+#: dashboard.php:102
+msgid "ShortCodes"
+msgstr "kortkoder"
+
+#: dashboard.php:110
+msgid "Paypal Settings"
+msgstr "paypal inställningar"
+
+#: dashboard.php:119 functions.php:3280
+msgid "Mailchimp Settings"
+msgstr "MailChimp inställningar"
+
+#: dashboard.php:128
+msgid "Facebook Connect"
+msgstr "Facebook Anslut"
+
+#: dashboard.php:137
+msgid "Auto Approve"
+msgstr "Automatisk Godkänn"
+
+#: dashboard.php:146
+msgid "Delete All Bookings"
+msgstr "Ta bort alla bokningar"
+
+#: dashboard.php:154
+msgid "Restore Factory Settings"
+msgstr "Återställ fabriksinställningar"
+
+#: dashboard.php:163
+msgid "Upcoming Bookings"
+msgstr "klient Namn"
+
+#: dashboard.php:187
+msgid "Client Name"
+msgstr "klient Namn"
+
+#: dashboard.php:188 manageClients.php:35
+msgid "Mobile"
+msgstr "mobil"
+
+#: dashboard.php:190
+msgid "Booking Date"
+msgstr "Bokning Datum"
+
+#: dashboard.php:191 functions.php:1975
+msgid "Time Slot"
+msgstr "tidslucka"
+
+#: dashboard.php:281
+msgid "Booking Status : Approved"
+msgstr "Bokning: Godkänd"
+
+#: dashboard.php:287
+msgid "Booking Status : Disapproved"
+msgstr "Bokning Status: Ej godkänd"
+
+#: dashboard.php:293
+msgid "Booking Status : Pending Approval"
+msgstr "Bokning Status: väntar på godkännande"
+
+#: dashboard.php:299
+msgid "Booking Status : Cancelled"
+msgstr "Bokning Status: Borttagen"
+
+#: dashboard.php:429
+msgid "Edit Booking?"
+msgstr "Redigera bokning?"
+
+#: dashboard.php:434
+msgid "Send Email Again?"
+msgstr "Skicka e-post igen?"
+
+#: dashboard.php:438
+msgid "Delete Booking?"
+msgstr "Ta bort bokning?"
+
+#: dashboard.php:453 manageBlockOuts.php:330 manageBookingForm.php:159
+#: manageBookings.php:87 manageClients.php:87 manageCoupons.php:188
+#: manageEmailTemplate.php:302 manageReportBug.php:60 manageServices.php:230
+msgid "2013 Bookings-Engine"
+msgstr "2013 Bokning-motor"
+
+#: dashboard.php:456 manageBlockOuts.php:333 manageBookingForm.php:162
+#: manageBookings.php:90 manageClients.php:90 manageCoupons.php:191
+#: manageEmailTemplate.php:305 manageReportBug.php:63 manageServices.php:233
+msgid "Powered by "
+msgstr "drivs av"
+
+#: dashboard.php:458 manageBlockOuts.php:335 manageBookingForm.php:164
+#: manageBookings.php:92 manageClients.php:92 manageCoupons.php:193
+#: manageEmailTemplate.php:307 manageReportBug.php:65 manageServices.php:235
+msgid "Bookings Engine!"
+msgstr "Bokning motor!"
+
+#: dashboard.php:465
+msgid "Facebook Connect Settings"
+msgstr "Facebook Anslut inställningar"
+
+#: dashboard.php:476
+msgid "MailChimp Settings"
+msgstr "MailChimp inställningar"
+
+#: dashboard.php:488
+msgid "Add New Service"
+msgstr "Lägg till ny tjänst"
+
+#: dashboard.php:493
+msgid "Success! Service has been saved."
+msgstr "Framgång! Tjänsten har sparats."
+
+#: dashboard.php:500 manageServices.php:201
+msgid "Error! Max Bookings should be greater than 1"
+msgstr "Fel! Max Bokningar bör vara större än 1"
+
+#: dashboard.php:507 manageServices.php:207
+msgid "Error! Please Enter the Valid Time."
+msgstr "Fel! Ange det giltig tid."
+
+#: dashboard.php:517 functions.php:501
+msgid "Service Color :"
+msgstr "tjänsten Färg:"
+
+#: dashboard.php:526 functions.php:509
+msgid "Service Name :"
+msgstr "tjänsten Name:"
+
+#: dashboard.php:544
+msgid "Service Cost ("
+msgstr "Kostnader för tjänstgöring ("
+
+#: dashboard.php:552 functions.php:521
+msgid "Service Type :"
+msgstr "Typ av tjänst:"
+
+#: dashboard.php:556 functions.php:528 functions.php:537
+msgid "Group Bookings"
+msgstr "gruppbokningar"
+
+#: dashboard.php:561
+msgid "Max Bookings :"
+msgstr "Max Bokningar:"
+
+#: dashboard.php:569 functions.php:568
+msgid "Full Day Service :"
+msgstr "Full Day tjänsten:"
+
+#: dashboard.php:577 functions.php:591 functions.php:622
+msgid "Allow Max. Days :"
+msgstr "Tillåt Max. dagar:"
+
+#: dashboard.php:595 functions.php:653 functions.php:665
+msgid "Cost Type :"
+msgstr "Kostnad Typ:"
+
+#: dashboard.php:598
+msgid "Per Day"
+msgstr "pER DAG"
+
+#: dashboard.php:599 functions.php:656 functions.php:673 functions.php:682
+msgid "Fixed"
+msgstr "fast"
+
+#: dashboard.php:604 functions.php:694 functions.php:978
+msgid "Service Time :"
+msgstr "tjänsten Tid:"
+
+#: dashboard.php:614 dashboard.php:620 manageServices.php:116
+msgid " Hrs"
+msgstr "tim"
+
+#: dashboard.php:633 dashboard.php:639 manageServices.php:111
+#: manageServices.php:123
+msgid " Mins"
+msgstr "mins"
+
+#: dashboard.php:649 functions.php:772 functions.php:1055
+msgid "Start Time :"
+msgstr "Starttid:"
+
+#: dashboard.php:683 dashboard.php:724
+msgid "AM"
+msgstr "vid"
+
+#: dashboard.php:684 dashboard.php:725
+msgid "PM"
+msgstr "pm"
+
+#: dashboard.php:690 functions.php:880 functions.php:1164
+msgid "End Time :"
+msgstr "Sluttid:"
+
+#: dashboard.php:745 dashboard.php:1098 dashboard.php:1149 dashboard.php:1259
+#: manageBookingForm.php:149 manageClients.php:122 manageEmailTemplate.php:70
+#: manageEmailTemplate.php:125 manageEmailTemplate.php:180
+#: manageEmailTemplate.php:235 manageEmailTemplate.php:290
+#: manageServices.php:220
+msgid "Submit & Save Changes"
+msgstr "Skicka & Spara ändringar"
+
+#: dashboard.php:762
+msgid "Success! Default Settings has been saved."
+msgstr "Framgång! Standardinställningar har sparats."
+
+#: dashboard.php:771
+msgid "Currency :"
+msgstr "valuta:"
+
+#: dashboard.php:822 functions.php:1725
+msgid "Country :"
+msgstr "land:"
+
+#: dashboard.php:873
+msgid "Date Format :"
+msgstr "Datumformat:"
+
+#: dashboard.php:974
+msgid "Time Format :"
+msgstr "Tidsformat:"
+
+#: dashboard.php:983 dashboard.php:994 functions.php:3192
+msgid "12 Hours"
+msgstr "12 timmar"
+
+#: dashboard.php:986 dashboard.php:997 functions.php:3200
+msgid "24 Hours"
+msgstr "24 timmar"
+
+#: dashboard.php:1017
+msgid "Time Zone :"
+msgstr "Tidszon:"
+
+#: dashboard.php:1060
+msgid "Service Display :"
+msgstr "Tjänsten visa:"
+
+#: dashboard.php:1078 dashboard.php:1085
+msgid "Radio Button"
+msgstr "alternativknapp"
+
+#: dashboard.php:1079 dashboard.php:1086
+msgid "Drop Down List"
+msgstr "Rullgardinsmenyn"
+
+#: dashboard.php:1112
+msgid "PayPal Settings"
+msgstr "PayPal inställningar"
+
+#: dashboard.php:1124
+msgid "Auto Approve Bookings"
+msgstr "Automatisk Godkänn Bokning"
+
+#: dashboard.php:1128
+msgid "Success! Auto Approve has been saved."
+msgstr "Framgång! Automatisk Godkänna har sparats."
+
+#: dashboard.php:1137
+msgid "Auto Approve :"
+msgstr "Automatisk Godkänn:"
+
+#: dashboard.php:1140
+msgid "Enabled"
+msgstr "aktiverad"
+
+#: dashboard.php:1141
+msgid "Disabled"
+msgstr "funktionshindrade"
+
+#: dashboard.php:1174
+msgid "Block Outs Settings"
+msgstr "Blockera Outs Inställningar"
+
+#: dashboard.php:1206
+msgid "Shortcodes "
+msgstr "kortkoder"
+
+#: dashboard.php:1213
+msgid "Form Embed :"
+msgstr "bilda bädda:"
+
+#: dashboard.php:1219
+msgid "Popup Form :"
+msgstr "Popup formulär:"
+
+#: dashboard.php:1234
+msgid "Edit Customer Booking "
+msgstr "Redigera Kund bokning"
+
+#: dashboard.php:1240 manageClients.php:110
+msgid "Success! The Customer has been Updated."
+msgstr "Framgång! Kunden har uppdaterats."
+
+#: dashboard.php:1247
+msgid "Success! The Booking has been Updated."
+msgstr "Framgång! Den Boka har uppdaterats."
+
+#: dashboard.php:1581
+msgid "Are you sure you want to Delete All Bookings?"
+msgstr "Är du säker på att du vill ta bort alla bokningar?"
+
+#: dashboard.php:1602
+msgid "Are you sure you want to Restore Factory Settings ?"
+msgstr "Är du säker på att du vill återställa fabriksinställningar?"
+
+#: dashboard.php:1623
+msgid "Are you sure you want to delete this Booking?"
+msgstr "Är du säker på att du vill ta bort denna bokning?"
+
+#: dashboard.php:1652
+msgid "Email has been Sent successfully."
+msgstr "E har skickats."
+
+#: functions.php:277 functions.php:301 functions.php:435 functions.php:3223
+#: functions.php:3255 functions.php:3286 functions.php:3318 functions.php:3365
+msgid "On"
+msgstr "på"
+
+#: functions.php:281 functions.php:297 functions.php:439 functions.php:3231
+#: functions.php:3263 functions.php:3294 functions.php:3342 functions.php:3373
+msgid "Off"
+msgstr "av"
+
+#: functions.php:515
+msgid "Cost :"
+msgstr "kostnad:"
+
+#: functions.php:548 functions.php:559
+msgid "Max Bookings<br/>(Each Slot) :"
+msgstr "Max Bokning <br/> (varje kortplats):"
+
+#: functions.php:655 functions.php:672 functions.php:681
+msgid "Per day"
+msgstr "per dag"
+
+#: functions.php:716 functions.php:729 functions.php:1000 functions.php:1012
+msgid " Hours"
+msgstr "timmar"
+
+#: functions.php:749 functions.php:762 functions.php:1032 functions.php:1045
+msgid " Minutes"
+msgstr "minuter"
+
+#: functions.php:1663
+msgid "First Name :"
+msgstr "Förnamn:"
+
+#: functions.php:1669
+msgid "Last Name :"
+msgstr "Efternamn:"
+
+#: functions.php:1675 functions.php:3908
+msgid "Email :"
+msgstr "e-post:"
+
+#: functions.php:1681
+msgid "Telephone :"
+msgstr "Telefon:"
+
+#: functions.php:1687 functions.php:3919
+msgid "Mobile :"
+msgstr "mobil:"
+
+#: functions.php:1693
+msgid "Skype Id :"
+msgstr "Skype ID:"
+
+#: functions.php:1699
+msgid "Address 1 :"
+msgstr "Adress 1:"
+
+#: functions.php:1707
+msgid "Address 2 :"
+msgstr "Adress 2:"
+
+#: functions.php:1713
+msgid "City :"
+msgstr "stad:"
+
+#: functions.php:1719
+msgid "Post Code :"
+msgstr "Postnummer:"
+
+#: functions.php:1757
+msgid "Comments :"
+msgstr "Kommentarer:"
+
+#: functions.php:1953
+msgid "bookingExist"
+msgstr "reservationer finns"
+
+#: functions.php:1974
+msgid "Date"
+msgstr "datum"
+
+#: functions.php:1976 manageCoupons.php:37
+msgid "Status"
+msgstr "status"
+
+#: functions.php:3111
+msgid "Default Currency"
+msgstr "standardvaluta"
+
+#: functions.php:3127
+msgid "Date Format"
+msgstr "datumformat"
+
+#: functions.php:3186
+msgid "Time Format"
+msgstr "Tidsformat"
+
+#: functions.php:3217
+msgid "Paypal Status"
+msgstr "paypal status"
+
+#: functions.php:3249
+msgid "Facebook Settings"
+msgstr "Facebook-inställningar"
+
+#: functions.php:3331
+msgid "Reminder Interval"
+msgstr "påminnelse Intervall"
+
+#: functions.php:3359
+msgid "Auto Approve: "
+msgstr "Automatisk Godkänn:"
+
+#: functions.php:3897
+msgid "Client Name :"
+msgstr "Kund Namn:"
+
+#: functions.php:3929
+msgid "Service Booked :"
+msgstr "Tjänsten Bokad:"
+
+#: functions.php:3939
+msgid "Booking Date :"
+msgstr "Bokning Datum:"
+
+#: functions.php:4026
+msgid "Time Slot :"
+msgstr "Tidslucka:"
+
+#: functions.php:4093
+msgid "Payment Status:"
+msgstr "Betalning Status:"
+
+#: functions.php:4102
+msgid "Transaction ID :"
+msgstr "Transaktions-ID:"
+
+#: functions.php:4111
+msgid "Payment Date :"
+msgstr "Likviddag:"
+
+#: functions.php:4124
+msgid "Booking Status :"
+msgstr "Bokning Status:"
+
+#: functions.php:4133 functions.php:4153 functions.php:4163 functions.php:4173
+#: manageBookings.php:65
+msgid "Approved"
+msgstr "godkänd"
+
+#: functions.php:4134 functions.php:4144 functions.php:4164 functions.php:4174
+#: manageBookings.php:66
+msgid "Disapproved"
+msgstr "Ej godkänd"
+
+#: functions.php:4135 functions.php:4145 functions.php:4155 functions.php:4175
+#: manageBookings.php:67
+msgid "Cancelled"
+msgstr "AVBRUTEN"
+
+#: functions.php:4136 functions.php:4146 functions.php:4156 functions.php:4166
+msgid "Completed"
+msgstr "Avslutade"
+
+#: functions.php:4142 functions.php:4152 functions.php:4162 functions.php:4172
+#: manageBookings.php:64
+msgid "Pending Approval"
+msgstr "I avvaktan på godkännande"
+
+#: manageAffiliates.php:6
+msgid "Mange Affiliates"
+msgstr "många affiliates"
+
+#: manageBlockOuts.php:14
+msgid "BLOCKOUTS"
+msgstr "blockera outs"
+
+#: manageBlockOuts.php:102 manageBlockOuts.php:106
+msgid "Daily with full day Block Outs from "
+msgstr "Dagligen med full Outs dag Block från"
+
+#: manageBlockOuts.php:107 manageBlockOuts.php:121 manageBlockOuts.php:160
+#: manageBlockOuts.php:176 manageBlockOuts.php:198 manageBlockOuts.php:215
+#: manageBlockOuts.php:256 manageBlockOuts.php:272 manageBlockOuts.php:291
+#: manageBlockOuts.php:306
+msgid " upto "
+msgstr "upp"
+
+#: manageBlockOuts.php:114 manageBlockOuts.php:119 manageBlockOuts.php:169
+#: manageBlockOuts.php:175 manageBlockOuts.php:205 manageBlockOuts.php:212
+#: manageBlockOuts.php:284 manageBlockOuts.php:290 manageBlockOuts.php:299
+#: manageBlockOuts.php:305
+msgid "Every "
+msgstr "varje"
+
+#: manageBlockOuts.php:115 manageBlockOuts.php:120
+msgid " days with full day Block Outs from "
+msgstr "dagar med full Outs dag Block från"
+
+#: manageBlockOuts.php:153 manageBlockOuts.php:159
+msgid "Daily from "
+msgstr "dagligen från"
+
+#: manageBlockOuts.php:154 manageBlockOuts.php:161 manageBlockOuts.php:170
+#: manageBlockOuts.php:177 manageBlockOuts.php:250 manageBlockOuts.php:257
+#: manageBlockOuts.php:266 manageBlockOuts.php:273 manageBlockOuts.php:285
+#: manageBlockOuts.php:291 manageBlockOuts.php:301 manageBlockOuts.php:307
+msgid " starting from "
+msgstr "från"
+
+#: manageBlockOuts.php:155 manageBlockOuts.php:162 manageBlockOuts.php:171
+#: manageBlockOuts.php:178 manageBlockOuts.php:251 manageBlockOuts.php:258
+#: manageBlockOuts.php:267 manageBlockOuts.php:273 manageBlockOuts.php:286
+#: manageBlockOuts.php:292 manageBlockOuts.php:301 manageBlockOuts.php:307
+msgid " till "
+msgstr "naar"
+
+#: manageBlockOuts.php:169 manageBlockOuts.php:175
+msgid " days from "
+msgstr "dagar från"
+
+#: manageBlockOuts.php:191 manageBlockOuts.php:196
+msgid "Weekly with full day Block Outs on "
+msgstr "Veckovis med full Outs dag Block på"
+
+#: manageBlockOuts.php:192 manageBlockOuts.php:197 manageBlockOuts.php:265
+#: manageBlockOuts.php:271 manageBlockOuts.php:300 manageBlockOuts.php:306
+msgid " from "
+msgstr "från"
+
+#: manageBlockOuts.php:206 manageBlockOuts.php:213 manageBlockOuts.php:299
+#: manageBlockOuts.php:305
+msgid " weeks on "
+msgstr "veckor på"
+
+#: manageBlockOuts.php:207 manageBlockOuts.php:214
+msgid " with full day Block Outs from "
+msgstr "med full dag Block Outs från"
+
+#: manageBlockOuts.php:249 manageBlockOuts.php:255
+msgid "Weekly from "
+msgstr "veckovis från"
+
+#: manageBlockOuts.php:265 manageBlockOuts.php:271
+msgid "Weekly on "
+msgstr "Varje vecka på"
+
+#: manageBlockOuts.php:284 manageBlockOuts.php:290
+msgid " weeks from "
+msgstr "veckor från"
+
+#: manageBlockOuts.php:316
+msgid "Delete Block Out"
+msgstr "Ta bort blockera"
+
+#: manageBookingForm.php:14
+msgid "FORM SETUP"
+msgstr "formulär inställning"
+
+#: manageBookingForm.php:25 manageReportBug.php:20
+msgid "Success! The Email has been sent."
+msgstr "Framgång! Den e-post har skickats."
+
+#: manageBookingForm.php:32
+msgid "Success! The Booking Fields has been updated."
+msgstr "Framgång! Bokningen Fält har uppdaterats."
+
+#: manageBookingForm.php:38 menus.php:38
+msgid "Form Setup"
+msgstr "formulär inställning"
+
+#: manageBookingForm.php:47
+msgid "Field Name"
+msgstr "Fältnamn"
+
+#: manageBookingForm.php:50
+msgid "Visibility"
+msgstr "synlighet"
+
+#: manageBookingForm.php:53
+msgid "Validation"
+msgstr "validering"
+
+#: manageBookingForm.php:103 manageBookingForm.php:124
+msgid "Visible"
+msgstr "synlig"
+
+#: manageBookingForm.php:106 manageBookingForm.php:127
+msgid "Invisible"
+msgstr "osynlig"
+
+#: manageBookingForm.php:111 manageBookingForm.php:132
+msgid "Required"
+msgstr "krävs"
+
+#: manageBookingForm.php:114 manageBookingForm.php:135
+msgid "Not Required"
+msgstr "krävs ej"
+
+#: manageBookings.php:14 menus.php:13
+msgid "Bookings"
+msgstr "bokning"
+
+#: manageBookings.php:24
+msgid "Advanced Booking Filter"
+msgstr "Avancerad bokning filtrera"
+
+#: manageBookings.php:30 menus.php:18
+msgid "Services"
+msgstr "tjänster"
+
+#: manageBookings.php:44
+msgid "All Services"
+msgstr "Alla tjänster"
+
+#: manageBookings.php:61
+msgid "Bookings Status"
+msgstr "bokning Status"
+
+#: manageBookings.php:75
+msgid "Booking Calendar"
+msgstr "bokningskalender"
+
+#: manageClients.php:14
+msgid "CLIENTS"
+msgstr "KUNDER"
+
+#: manageClients.php:24 menus.php:28
+msgid "Clients"
+msgstr "kunder"
+
+#: manageClients.php:32
+msgid "First Name"
+msgstr "FÖRNAMN"
+
+#: manageClients.php:33
+msgid "Last Name"
+msgstr "efternamn"
+
+#: manageClients.php:34
+msgid "Email Address"
+msgstr "E-postadress"
+
+#: manageClients.php:36
+msgid "City"
+msgstr "stad"
+
+#: manageClients.php:37
+msgid "Country"
+msgstr "land"
+
+#: manageClients.php:62
+msgid "Edit Client?"
+msgstr "Redigera klient?"
+
+#: manageClients.php:63
+msgid "Email Client?"
+msgstr "E-postklient?"
+
+#: manageClients.php:68 manageClients.php:152
+msgid "Payment Details"
+msgstr "betalningsinformation"
+
+#: manageClients.php:72
+msgid "Booking Details"
+msgstr "bokning Detaljer"
+
+#: manageClients.php:73
+msgid "Delete Client"
+msgstr "Ta bort klient"
+
+#: manageClients.php:102
+msgid "Edit Customer "
+msgstr "Redigera Kund"
+
+#: manageClients.php:132
+msgid "Customer Bookings"
+msgstr "kund Bokning"
+
+#: manageClients.php:172
+msgid "Email Customer "
+msgstr "E Kund"
+
+#: manageClients.php:180
+msgid "Success! Email has been sent."
+msgstr "Framgång! Postmeddelandet har skickats."
+
+#: manageClients.php:189 manageEmailTemplate.php:49
+#: manageEmailTemplate.php:104 manageEmailTemplate.php:159
+#: manageEmailTemplate.php:214 manageEmailTemplate.php:269
+msgid "Email Subject :"
+msgstr "E-post Angående:"
+
+#: manageClients.php:197 manageEmailTemplate.php:57
+#: manageEmailTemplate.php:112 manageEmailTemplate.php:167
+#: manageEmailTemplate.php:222 manageEmailTemplate.php:277
+msgid "Email Content :"
+msgstr "E Innehåll:"
+
+#: manageClients.php:211
+msgid "Send Email"
+msgstr "Skicka e-post"
+
+#: manageClients.php:374
+msgid "You cannot delete this Customer until all Bookings have been deleted."
+msgstr ""
+"Du kan inte ta bort den här kunden förrän alla bokningar har tagits bort."
+
+#: manageCoupons.php:14 manageCoupons.php:24
+msgid "COUPONS"
+msgstr "KUPONGER"
+
+#: manageCoupons.php:31
+msgid "Discount Coupon"
+msgstr "rabattkupong"
+
+#: manageCoupons.php:32
+msgid "Valid From"
+msgstr "gäller från"
+
+#: manageCoupons.php:33
+msgid "Valid Upto"
+msgstr "gäller Upp"
+
+#: manageCoupons.php:34 manageCoupons.php:137
+msgid "Amount"
+msgstr "belopp"
+
+#: manageCoupons.php:35
+msgid "Amount Type"
+msgstr "Antal Typ"
+
+#: manageCoupons.php:36
+msgid "Apply to All"
+msgstr "Använd för alla"
+
+#: manageCoupons.php:141
+msgid "Percentage"
+msgstr "Procent"
+
+#: manageCoupons.php:148
+msgid "Yes"
+msgstr "Ja"
+
+#: manageCoupons.php:152
+msgid "No"
+msgstr "Nej"
+
+#: manageCoupons.php:175
+msgid "Delete Coupon"
+msgstr "radera kupong"
+
+#: manageEmailTemplate.php:14
+msgid "EMAIL TEMPLATES"
+msgstr "e-mallar"
+
+#: manageEmailTemplate.php:25 manageEmailTemplate.php:81
+#: manageEmailTemplate.php:136 manageEmailTemplate.php:191
+#: manageEmailTemplate.php:246
+msgid "Success! The Email has been saved."
+msgstr "Framgång! Den post har sparats."
+
+#: manageEmailTemplate.php:42
+msgid "Approval Pending Email Template [Sent to Client]"
+msgstr "Godkännande avvaktan E Mall [Skickat till klient]"
+
+#: manageEmailTemplate.php:97
+msgid "Approved Email Template [Sent to Client]"
+msgstr "Godkänd E-mall [Skickat till Client]"
+
+#: manageEmailTemplate.php:152
+msgid "Disapproved Email Template [Sent to Client]"
+msgstr "Ej godkänd E Mall [Skickat till Client]"
+
+#: manageEmailTemplate.php:207
+msgid "Approve/Disapprove Email Template [Sent to Admin]"
+msgstr "Godkänn / ogillar E-mall [Skickat till Admin]"
+
+#: manageEmailTemplate.php:262
+msgid "Paypal Admin Notification Email Template [Sent to Admin]"
+msgstr "Paypal Admin Anmälan Email Template [Skickat till Admin]"
+
+#: manageReportBug.php:11
+msgid "REPORT A BUG"
+msgstr "Rapportera buggar"
+
+#: manageReportBug.php:25 menus.php:48
+msgid "Report a Bug"
+msgstr "Rapportera en bugg"
+
+#: manageReportBug.php:31
+msgid "Your Email :"
+msgstr "Din e-postadress:"
+
+#: manageReportBug.php:37
+msgid "Subject :"
+msgstr "Ämne:"
+
+#: manageReportBug.php:43
+msgid "Bug / Issue :"
+msgstr "bugg/ Utgåva:"
+
+#: manageReportBug.php:50
+msgid "Report It!"
+msgstr "Rapportera det!"
+
+#: manageServices.php:14 manageServices.php:24
+msgid "SERVICES"
+msgstr "TJÄNSTER"
+
+#: manageServices.php:31
+msgid "Service Display Order"
+msgstr "Tjänsten Display Order"
+
+#: manageServices.php:36
+msgid "FullDay"
+msgstr "heldag"
+
+#: manageServices.php:37
+msgid "Time"
+msgstr "tid"
+
+#: manageServices.php:38
+msgid "Business Hours"
+msgstr "ÖPPETTIDER"
+
+#: manageServices.php:121
+msgid " Hrs "
+msgstr "h"
+
+#: manageServices.php:176
+msgid "Edit Service?"
+msgstr "Redigera tjänsten?"
+
+#: manageServices.php:176
+msgid "Delete Service?"
+msgstr "Radera tjänsten?"
+
+#: manageServices.php:190
+msgid "Update Existing Service"
+msgstr "Uppdatera befintlig tjänsten"
+
+#: manageServices.php:196
+msgid "Success! The Service has been updated Successfully."
+msgstr "Framgång! Tjänsten har uppdaterats framgångsrikt."
+
+#: manageServices.php:270
+msgid "Are you sure you want to delete this Service"
+msgstr "Är du säker på att du vill ta bort denna bokning?"
+
+#: manageServices.php:285
+msgid ""
+"Unfortunately, this service could not be deleted until all bookings are "
+"deleted."
+msgstr ""
+"Den här tjänsten kan inte tas bort förrän de har avdelats från de anställda."
+
+#: menus.php:43
+msgid "Email Templates"
+msgstr "E-mallar"
+
+#: menus.php:59
+msgid "Overview Stats"
+msgstr "Översikt statistik"
+
+#: menus.php:62
+msgid "Total Bookings"
+msgstr "Antal Varningar"
+
+#: menus.php:68
+msgid "Total Services"
+msgstr "Totalt Tjänster"
+
+#: menus.php:74
+msgid "Total Clients"
+msgstr "Totala kunder"
+
+#: menus.php:80
+msgid "Total Coupons"
+msgstr "Totala kuponger"
+
+#: menus.php:86
+msgid "Total BlockOuts"
+msgstr "Totala blockera outs"
+
+#: menus.php:109
+msgid "Bookings Today"
+msgstr "Bokning Idag"
+
+#~ msgid "Copyright your company."
+#~ msgstr "Upphovsrätt ditt företag."
+
+#~ msgid "Mustache!"
+#~ msgstr "Mustasch!"
+
+#~ msgid " 2013 Bookings-Engine"
+#~ msgstr "2013 Bokning-motor"

@@ -1,0 +1,1045 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookings Engine Lite Version\n"
+"POT-Creation-Date: 2013-04-11 17:15+0530\n"
+"PO-Revision-Date: 2013-04-12 14:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\Dev6\\wp-content\\plugins\\bookings-"
+"engine\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bookingCalendar.php:28 bookingCalendarBackEnd.php:28
+msgid "Choose Service"
+msgstr "Hizmet seçin"
+
+#: bookingCalendar.php:34 bookingCalendarBackEnd.php:34
+msgid "Choose Availability"
+msgstr "Durumu seç"
+
+#: bookingCalendar.php:41 bookingCalendarBackEnd.php:41
+msgid "Fill in Information"
+msgstr "Bilgi doldurun"
+
+#: bookingCalendar.php:48 bookingCalendarBackEnd.php:48
+msgid "Confirm Booking"
+msgstr "Rezervasyon Onay"
+
+#: bookingCalendar.php:60 bookingCalendarBackEnd.php:60 dashboard.php:189
+#: functions.php:1973 manageBlockOuts.php:32 manageCoupons.php:38
+#: manageServices.php:33
+msgid "Service"
+msgstr "hizmet"
+
+#: bookingCalendar.php:61 bookingCalendarBackEnd.php:61 manageServices.php:34
+msgid "Cost"
+msgstr "maliyet"
+
+#: bookingCalendar.php:62 bookingCalendarBackEnd.php:62 manageServices.php:35
+msgid "Type"
+msgstr "tip"
+
+#: bookingCalendar.php:111 bookingCalendarBackEnd.php:111 dashboard.php:555
+#: functions.php:527 functions.php:536
+msgid "Single Booking"
+msgstr "Tek Rezervasyon"
+
+#: bookingCalendar.php:137 bookingCalendarBackEnd.php:137
+msgid "Please choose Service"
+msgstr "Servis seçiniz"
+
+#: bookingCalendar.php:297 bookingCalendarBackEnd.php:297
+msgid "Booking Details :"
+msgstr "Rezervasyon Detayları:"
+
+#: bookingCalendar.php:330 bookingCalendarBackEnd.php:330
+msgid "Previous Step"
+msgstr "Önceki Adım"
+
+#: bookingCalendar.php:335 bookingCalendarBackEnd.php:335
+msgid "Next Step"
+msgstr "Sonraki Adım"
+
+#: bookingCalendar.php:406 bookingCalendarBackEnd.php:405
+msgid "Please choose atleast one Service"
+msgstr "Lütfen en az bir Hizmet seçiniz"
+
+#: bookingCalendar.php:430 bookingCalendarBackEnd.php:429
+msgid "Please choose Booking date"
+msgstr "Rezervasyon tarihini seçiniz"
+
+#: bookingCalendar.php:445 bookingCalendarBackEnd.php:444
+msgid "Please choose Booking date and time"
+msgstr "Rezervasyon tarihini seçiniz"
+
+#: bookingCalendar.php:703 bookingCalendarBackEnd.php:702
+msgid "Coupon is not valid"
+msgstr "Kupon geçerli değil"
+
+#: bookings-engine.php:279 bookings-engine.php:299 dashboard.php:1196
+msgid "Book New Service"
+msgstr "Kitap Yeni Hizmet"
+
+#: dashboard.php:18 manageBlockOuts.php:9 manageBookingForm.php:9
+#: manageBookings.php:9 manageClients.php:9 manageCoupons.php:9
+#: manageEmailTemplate.php:9 manageReportBug.php:8 manageServices.php:9
+msgid "BOOKINGS ENGINE"
+msgstr "REZERVASYON MOTOR"
+
+#: dashboard.php:23 menus.php:8
+msgid "Dashboard"
+msgstr "gösterge paneli"
+
+#: dashboard.php:34
+msgid ""
+"You are using Lite Version of Bookings Engine. To enjoy full features, "
+"purchase Commercial Version now by clicking <a href='http://bookings-engine."
+"com' target='_blank'>here</a>. "
+msgstr ""
+"Sen Rezervasyonları Motor Lite Sürüm kullanıyorsunuz. Tam özelliklerinden "
+"yararlanmak için, <a tıklayarak şimdi Ticari Sürüm satın href='http://"
+"bookings-engine.com' target='_blank'> burada </ a>."
+
+#: dashboard.php:40
+msgid "Action Panel"
+msgstr "eylem Paneli"
+
+#: dashboard.php:49
+msgid "Book a Service"
+msgstr "Bir Hizmet rezervasyonları"
+
+#: dashboard.php:58
+msgid "Add Services"
+msgstr "Hizmetler ekle"
+
+#: dashboard.php:67 manageBlockOuts.php:24 manageBlockOuts.php:35
+#: manageBookings.php:68 menus.php:33
+msgid "Block Outs"
+msgstr "Blok Çıkışları"
+
+#: dashboard.php:76 dashboard.php:1185 menus.php:23
+msgid "Coupons"
+msgstr "Kuponlar"
+
+#: dashboard.php:85 dashboard.php:758 menus.php:98
+msgid "Default Settings"
+msgstr "Varsayılan Ayarlar"
+
+#: dashboard.php:93 dashboard.php:1163 functions.php:3312
+msgid "Reminder Settings"
+msgstr "Hatırlatma Ayarları"
+
+#: dashboard.php:102
+msgid "ShortCodes"
+msgstr "Kısa Kodları"
+
+#: dashboard.php:110
+msgid "Paypal Settings"
+msgstr "Paypal Ayarları"
+
+#: dashboard.php:119 functions.php:3280
+msgid "Mailchimp Settings"
+msgstr "MailChimp Ayarları"
+
+#: dashboard.php:128
+msgid "Facebook Connect"
+msgstr "Facebook bağlanmak"
+
+#: dashboard.php:137
+msgid "Auto Approve"
+msgstr "Otomatik onaylama"
+
+#: dashboard.php:146
+msgid "Delete All Bookings"
+msgstr "Tüm Rezervasyonları sil"
+
+#: dashboard.php:154
+msgid "Restore Factory Settings"
+msgstr "Fabrika Ayarlarını Geri Yükle"
+
+#: dashboard.php:163
+msgid "Upcoming Bookings"
+msgstr "Yaklaşan Rezervasyonları"
+
+#: dashboard.php:187
+msgid "Client Name"
+msgstr "Müşteri Adı"
+
+#: dashboard.php:188 manageClients.php:35
+msgid "Mobile"
+msgstr "seyyar"
+
+#: dashboard.php:190
+msgid "Booking Date"
+msgstr "Tarih rezervasyon"
+
+#: dashboard.php:191 functions.php:1975
+msgid "Time Slot"
+msgstr "Zaman Yuvası"
+
+#: dashboard.php:281
+msgid "Booking Status : Approved"
+msgstr "Rezervasyon Durumu: Onaylandı"
+
+#: dashboard.php:287
+msgid "Booking Status : Disapproved"
+msgstr "Rezervasyon Durum: Onaylanmadı"
+
+#: dashboard.php:293
+msgid "Booking Status : Pending Approval"
+msgstr "Rezervasyon Durum: Beklemede Onay"
+
+#: dashboard.php:299
+msgid "Booking Status : Cancelled"
+msgstr "Rezervasyon Durum: İptal Edildi"
+
+#: dashboard.php:429
+msgid "Edit Booking?"
+msgstr "Rezervasyon Düzenle?"
+
+#: dashboard.php:434
+msgid "Send Email Again?"
+msgstr "Yine E-posta gönder?"
+
+#: dashboard.php:438
+msgid "Delete Booking?"
+msgstr "Rezervasyon Sil?"
+
+#: dashboard.php:453 manageBlockOuts.php:330 manageBookingForm.php:159
+#: manageBookings.php:87 manageClients.php:87 manageCoupons.php:188
+#: manageEmailTemplate.php:302 manageReportBug.php:60 manageServices.php:230
+msgid "2013 Bookings-Engine"
+msgstr "2013 Rezervasyonları-Motoru"
+
+#: dashboard.php:456 manageBlockOuts.php:333 manageBookingForm.php:162
+#: manageBookings.php:90 manageClients.php:90 manageCoupons.php:191
+#: manageEmailTemplate.php:305 manageReportBug.php:63 manageServices.php:233
+msgid "Powered by "
+msgstr "Powered by "
+
+#: dashboard.php:458 manageBlockOuts.php:335 manageBookingForm.php:164
+#: manageBookings.php:92 manageClients.php:92 manageCoupons.php:193
+#: manageEmailTemplate.php:307 manageReportBug.php:65 manageServices.php:235
+msgid "Bookings Engine!"
+msgstr "Rezervasyonları Motor!"
+
+#: dashboard.php:465
+msgid "Facebook Connect Settings"
+msgstr "Facebook Connect Ayarları"
+
+#: dashboard.php:476
+msgid "MailChimp Settings"
+msgstr "MailChimp Ayarları"
+
+#: dashboard.php:488
+msgid "Add New Service"
+msgstr "Yeni Servis Ekle"
+
+#: dashboard.php:493
+msgid "Success! Service has been saved."
+msgstr "Başarı! Hizmet kaydedildi."
+
+#: dashboard.php:500 manageServices.php:201
+msgid "Error! Max Bookings should be greater than 1"
+msgstr "Hata! Max Rezervasyonları 1'den büyük olmalıdır"
+
+#: dashboard.php:507 manageServices.php:207
+msgid "Error! Please Enter the Valid Time."
+msgstr "Hata!Geçerli Zaman girin lütfen."
+
+#: dashboard.php:517 functions.php:501
+msgid "Service Color :"
+msgstr "Service Renk:"
+
+#: dashboard.php:526 functions.php:509
+msgid "Service Name :"
+msgstr "Hizmet Adı:"
+
+#: dashboard.php:544
+msgid "Service Cost ("
+msgstr "Hizmet Maliyeti ("
+
+#: dashboard.php:552 functions.php:521
+msgid "Service Type :"
+msgstr "Hizmet Türü:"
+
+#: dashboard.php:556 functions.php:528 functions.php:537
+msgid "Group Bookings"
+msgstr "Grup Rezervasyonları"
+
+#: dashboard.php:561
+msgid "Max Bookings :"
+msgstr "Max Rezervasyonları:"
+
+#: dashboard.php:569 functions.php:568
+msgid "Full Day Service :"
+msgstr "Tam Gün Hizmet:"
+
+#: dashboard.php:577 functions.php:591 functions.php:622
+msgid "Allow Max. Days :"
+msgstr "Maksimum izin ver. gün:"
+
+#: dashboard.php:595 functions.php:653 functions.php:665
+msgid "Cost Type :"
+msgstr "Türü Maliyet:"
+
+#: dashboard.php:598
+msgid "Per Day"
+msgstr "Günlük"
+
+#: dashboard.php:599 functions.php:656 functions.php:673 functions.php:682
+msgid "Fixed"
+msgstr "Sabit"
+
+#: dashboard.php:604 functions.php:694 functions.php:978
+msgid "Service Time :"
+msgstr "Hizmet Süresi:"
+
+#: dashboard.php:614 dashboard.php:620 manageServices.php:116
+msgid " Hrs"
+msgstr "saat"
+
+#: dashboard.php:633 dashboard.php:639 manageServices.php:111
+#: manageServices.php:123
+msgid " Mins"
+msgstr "Dakikaları"
+
+#: dashboard.php:649 functions.php:772 functions.php:1055
+msgid "Start Time :"
+msgstr "Başlama Saati:"
+
+#: dashboard.php:683 dashboard.php:724
+msgid "AM"
+msgstr "at"
+
+#: dashboard.php:684 dashboard.php:725
+msgid "PM"
+msgstr "pm"
+
+#: dashboard.php:690 functions.php:880 functions.php:1164
+msgid "End Time :"
+msgstr "Zaman End:"
+
+#: dashboard.php:745 dashboard.php:1098 dashboard.php:1149 dashboard.php:1259
+#: manageBookingForm.php:149 manageClients.php:122 manageEmailTemplate.php:70
+#: manageEmailTemplate.php:125 manageEmailTemplate.php:180
+#: manageEmailTemplate.php:235 manageEmailTemplate.php:290
+#: manageServices.php:220
+msgid "Submit & Save Changes"
+msgstr "Değişiklikleri Gönder ve Kaydet"
+
+#: dashboard.php:762
+msgid "Success! Default Settings has been saved."
+msgstr "Başarı! Varsayılan Ayarlar kaydedildi."
+
+#: dashboard.php:771
+msgid "Currency :"
+msgstr "Döviz:"
+
+#: dashboard.php:822 functions.php:1725
+msgid "Country :"
+msgstr "Ülke:"
+
+#: dashboard.php:873
+msgid "Date Format :"
+msgstr "Tarih Biçimi:"
+
+#: dashboard.php:974
+msgid "Time Format :"
+msgstr "Saat Biçimi:"
+
+#: dashboard.php:983 dashboard.php:994 functions.php:3192
+msgid "12 Hours"
+msgstr "12 Saat"
+
+#: dashboard.php:986 dashboard.php:997 functions.php:3200
+msgid "24 Hours"
+msgstr "24 Saat"
+
+#: dashboard.php:1017
+msgid "Time Zone :"
+msgstr "Zaman Dilimi:"
+
+#: dashboard.php:1060
+msgid "Service Display :"
+msgstr "Hizmet Ekran:"
+
+#: dashboard.php:1078 dashboard.php:1085
+msgid "Radio Button"
+msgstr "Radyo Düğmesi"
+
+#: dashboard.php:1079 dashboard.php:1086
+msgid "Drop Down List"
+msgstr "açılan listesinden"
+
+#: dashboard.php:1112
+msgid "PayPal Settings"
+msgstr "PayPal Ayarları"
+
+#: dashboard.php:1124
+msgid "Auto Approve Bookings"
+msgstr "Otomatik Rezervasyonları Onayla"
+
+#: dashboard.php:1128
+msgid "Success! Auto Approve has been saved."
+msgstr "Başarı! Onayla Otomatik kaydedildi."
+
+#: dashboard.php:1137
+msgid "Auto Approve :"
+msgstr "Otomatik Onayla:"
+
+#: dashboard.php:1140
+msgid "Enabled"
+msgstr "Etkin"
+
+#: dashboard.php:1141
+msgid "Disabled"
+msgstr "özürlü"
+
+#: dashboard.php:1174
+msgid "Block Outs Settings"
+msgstr "Çıkışları Ayarlar Blok"
+
+#: dashboard.php:1206
+msgid "Shortcodes "
+msgstr "Kısa kodları"
+
+#: dashboard.php:1213
+msgid "Form Embed :"
+msgstr "embed oluşturur:"
+
+#: dashboard.php:1219
+msgid "Popup Form :"
+msgstr "Pencereyi formu:"
+
+#: dashboard.php:1234
+msgid "Edit Customer Booking "
+msgstr "Müşteri Rezervasyon Düzenle"
+
+#: dashboard.php:1240 manageClients.php:110
+msgid "Success! The Customer has been Updated."
+msgstr "Başarı!Müşteri Güncelleme edilmiştir."
+
+#: dashboard.php:1247
+msgid "Success! The Booking has been Updated."
+msgstr "Başarı!Rezervasyon Güncelleme edilmiştir."
+
+#: dashboard.php:1581
+msgid "Are you sure you want to Delete All Bookings?"
+msgstr "Eğer tüm Rezervasyonları silmek istediğinizden emin misiniz?"
+
+#: dashboard.php:1602
+msgid "Are you sure you want to Restore Factory Settings ?"
+msgstr "Eğer Fabrika Ayarlarını Geri Yükle etmek istediğinizden emin misiniz?"
+
+#: dashboard.php:1623
+msgid "Are you sure you want to delete this Booking?"
+msgstr "Eğer bu Rezervasyon silmek istediğinizden emin misiniz?"
+
+#: dashboard.php:1652
+msgid "Email has been Sent successfully."
+msgstr "E-posta başarıyla gönderildi."
+
+#: functions.php:277 functions.php:301 functions.php:435 functions.php:3223
+#: functions.php:3255 functions.php:3286 functions.php:3318 functions.php:3365
+msgid "On"
+msgstr "üzerinde"
+
+#: functions.php:281 functions.php:297 functions.php:439 functions.php:3231
+#: functions.php:3263 functions.php:3294 functions.php:3342 functions.php:3373
+msgid "Off"
+msgstr "kapalı"
+
+#: functions.php:515
+msgid "Cost :"
+msgstr "Maliyet:"
+
+#: functions.php:548 functions.php:559
+msgid "Max Bookings<br/>(Each Slot) :"
+msgstr "Max Rezervasyonları (Her yarık) <br/>:"
+
+#: functions.php:655 functions.php:672 functions.php:681
+msgid "Per day"
+msgstr "Günde"
+
+#: functions.php:716 functions.php:729 functions.php:1000 functions.php:1012
+msgid " Hours"
+msgstr "Saatleri"
+
+#: functions.php:749 functions.php:762 functions.php:1032 functions.php:1045
+msgid " Minutes"
+msgstr "Dakika"
+
+#: functions.php:1663
+msgid "First Name :"
+msgstr "İlk Adı:"
+
+#: functions.php:1669
+msgid "Last Name :"
+msgstr "Soyad:"
+
+#: functions.php:1675 functions.php:3908
+msgid "Email :"
+msgstr "e-posta:"
+
+#: functions.php:1681
+msgid "Telephone :"
+msgstr "Telefon:"
+
+#: functions.php:1687 functions.php:3919
+msgid "Mobile :"
+msgstr "Mobil:"
+
+#: functions.php:1693
+msgid "Skype Id :"
+msgstr "Skype Id:"
+
+#: functions.php:1699
+msgid "Address 1 :"
+msgstr "Adres 1:"
+
+#: functions.php:1707
+msgid "Address 2 :"
+msgstr "Adres 2:"
+
+#: functions.php:1713
+msgid "City :"
+msgstr "Şehir:"
+
+#: functions.php:1719
+msgid "Post Code :"
+msgstr "Kod Ver:"
+
+#: functions.php:1757
+msgid "Comments :"
+msgstr "Yorumlar:"
+
+#: functions.php:1953
+msgid "bookingExist"
+msgstr "rezervasyonları var"
+
+#: functions.php:1974
+msgid "Date"
+msgstr "tarih"
+
+#: functions.php:1976 manageCoupons.php:37
+msgid "Status"
+msgstr "durum"
+
+#: functions.php:3111
+msgid "Default Currency"
+msgstr "Geçerli Para Birimi"
+
+#: functions.php:3127
+msgid "Date Format"
+msgstr "Tarih Biçimi"
+
+#: functions.php:3186
+msgid "Time Format"
+msgstr "Saat Biçimi"
+
+#: functions.php:3217
+msgid "Paypal Status"
+msgstr "Paypal Durum"
+
+#: functions.php:3249
+msgid "Facebook Settings"
+msgstr "Facebook Ayarları"
+
+#: functions.php:3331
+msgid "Reminder Interval"
+msgstr "Hatırlatma Aralığı"
+
+#: functions.php:3359
+msgid "Auto Approve: "
+msgstr "Otomatik Onayla:"
+
+#: functions.php:3897
+msgid "Client Name :"
+msgstr "Müşteri Adı:"
+
+#: functions.php:3929
+msgid "Service Booked :"
+msgstr "Hizmet rezervasyon:"
+
+#: functions.php:3939
+msgid "Booking Date :"
+msgstr "Tarihi Rezervasyon:"
+
+#: functions.php:4026
+msgid "Time Slot :"
+msgstr "Zaman Yuvası:"
+
+#: functions.php:4093
+msgid "Payment Status:"
+msgstr "Ödeme Şekli:"
+
+#: functions.php:4102
+msgid "Transaction ID :"
+msgstr "İşlem Kimliği:"
+
+#: functions.php:4111
+msgid "Payment Date :"
+msgstr "Ödeme Tarihi:"
+
+#: functions.php:4124
+msgid "Booking Status :"
+msgstr "Durum Rezervasyon:"
+
+#: functions.php:4133 functions.php:4153 functions.php:4163 functions.php:4173
+#: manageBookings.php:65
+msgid "Approved"
+msgstr "onaylı"
+
+#: functions.php:4134 functions.php:4144 functions.php:4164 functions.php:4174
+#: manageBookings.php:66
+msgid "Disapproved"
+msgstr "onaylanmadı"
+
+#: functions.php:4135 functions.php:4145 functions.php:4155 functions.php:4175
+#: manageBookings.php:67
+msgid "Cancelled"
+msgstr "İptal"
+
+#: functions.php:4136 functions.php:4146 functions.php:4156 functions.php:4166
+msgid "Completed"
+msgstr "Tamamlandı"
+
+#: functions.php:4142 functions.php:4152 functions.php:4162 functions.php:4172
+#: manageBookings.php:64
+msgid "Pending Approval"
+msgstr "Onay Bekliyor"
+
+#: manageAffiliates.php:6
+msgid "Mange Affiliates"
+msgstr "Birçok İştirakler"
+
+#: manageBlockOuts.php:14
+msgid "BLOCKOUTS"
+msgstr "BLOK BİTİMLERİ"
+
+#: manageBlockOuts.php:102 manageBlockOuts.php:106
+msgid "Daily with full day Block Outs from "
+msgstr "Tam gün Bloğu Çıkışları ile Günlük"
+
+#: manageBlockOuts.php:107 manageBlockOuts.php:121 manageBlockOuts.php:160
+#: manageBlockOuts.php:176 manageBlockOuts.php:198 manageBlockOuts.php:215
+#: manageBlockOuts.php:256 manageBlockOuts.php:272 manageBlockOuts.php:291
+#: manageBlockOuts.php:306
+msgid " upto "
+msgstr "kadar"
+
+#: manageBlockOuts.php:114 manageBlockOuts.php:119 manageBlockOuts.php:169
+#: manageBlockOuts.php:175 manageBlockOuts.php:205 manageBlockOuts.php:212
+#: manageBlockOuts.php:284 manageBlockOuts.php:290 manageBlockOuts.php:299
+#: manageBlockOuts.php:305
+msgid "Every "
+msgstr "her"
+
+#: manageBlockOuts.php:115 manageBlockOuts.php:120
+msgid " days with full day Block Outs from "
+msgstr "tam gün Bloğu Çıkışları ile gün"
+
+#: manageBlockOuts.php:153 manageBlockOuts.php:159
+msgid "Daily from "
+msgstr "dan Günlük"
+
+#: manageBlockOuts.php:154 manageBlockOuts.php:161 manageBlockOuts.php:170
+#: manageBlockOuts.php:177 manageBlockOuts.php:250 manageBlockOuts.php:257
+#: manageBlockOuts.php:266 manageBlockOuts.php:273 manageBlockOuts.php:285
+#: manageBlockOuts.php:291 manageBlockOuts.php:301 manageBlockOuts.php:307
+msgid " starting from "
+msgstr "başlangıç"
+
+#: manageBlockOuts.php:155 manageBlockOuts.php:162 manageBlockOuts.php:171
+#: manageBlockOuts.php:178 manageBlockOuts.php:251 manageBlockOuts.php:258
+#: manageBlockOuts.php:267 manageBlockOuts.php:273 manageBlockOuts.php:286
+#: manageBlockOuts.php:292 manageBlockOuts.php:301 manageBlockOuts.php:307
+msgid " till "
+msgstr "karşı"
+
+#: manageBlockOuts.php:169 manageBlockOuts.php:175
+msgid " days from "
+msgstr "araba gün"
+
+#: manageBlockOuts.php:191 manageBlockOuts.php:196
+msgid "Weekly with full day Block Outs on "
+msgstr "Tam gün Blok Çıkışları ile Haftalık"
+
+#: manageBlockOuts.php:192 manageBlockOuts.php:197 manageBlockOuts.php:265
+#: manageBlockOuts.php:271 manageBlockOuts.php:300 manageBlockOuts.php:306
+msgid " from "
+msgstr "itibaren"
+
+#: manageBlockOuts.php:206 manageBlockOuts.php:213 manageBlockOuts.php:299
+#: manageBlockOuts.php:305
+msgid " weeks on "
+msgstr "haftalarda"
+
+#: manageBlockOuts.php:207 manageBlockOuts.php:214
+msgid " with full day Block Outs from "
+msgstr "tam gün Bloğu Çıkışları ile"
+
+#: manageBlockOuts.php:249 manageBlockOuts.php:255
+msgid "Weekly from "
+msgstr "dan Haftalık"
+
+#: manageBlockOuts.php:265 manageBlockOuts.php:271
+msgid "Weekly on "
+msgstr "Haftalık"
+
+#: manageBlockOuts.php:284 manageBlockOuts.php:290
+msgid " weeks from "
+msgstr "hafta"
+
+#: manageBlockOuts.php:316
+msgid "Delete Block Out"
+msgstr "bloke sil"
+
+#: manageBookingForm.php:14
+msgid "FORM SETUP"
+msgstr "FORMU AYARI"
+
+#: manageBookingForm.php:25 manageReportBug.php:20
+msgid "Success! The Email has been sent."
+msgstr "Başarı!E-posta gönderildi."
+
+#: manageBookingForm.php:32
+msgid "Success! The Booking Fields has been updated."
+msgstr "Başarı!Rezervasyon Alanlar güncellendi."
+
+#: manageBookingForm.php:38 menus.php:38
+msgid "Form Setup"
+msgstr "Formu Kurulumu"
+
+#: manageBookingForm.php:47
+msgid "Field Name"
+msgstr "Alan Adı"
+
+#: manageBookingForm.php:50
+msgid "Visibility"
+msgstr "görünürlük"
+
+#: manageBookingForm.php:53
+msgid "Validation"
+msgstr "onaylama"
+
+#: manageBookingForm.php:103 manageBookingForm.php:124
+msgid "Visible"
+msgstr "görünür"
+
+#: manageBookingForm.php:106 manageBookingForm.php:127
+msgid "Invisible"
+msgstr "görünmez"
+
+#: manageBookingForm.php:111 manageBookingForm.php:132
+msgid "Required"
+msgstr "gereken"
+
+#: manageBookingForm.php:114 manageBookingForm.php:135
+msgid "Not Required"
+msgstr "Gerekli Değil"
+
+#: manageBookings.php:14 menus.php:13
+msgid "Bookings"
+msgstr "Rezervasyonları"
+
+#: manageBookings.php:24
+msgid "Advanced Booking Filter"
+msgstr "Gelişmiş Rezervasyon Filtre"
+
+#: manageBookings.php:30 menus.php:18
+msgid "Services"
+msgstr "Hizmetler"
+
+#: manageBookings.php:44
+msgid "All Services"
+msgstr "Tüm Hizmetler"
+
+#: manageBookings.php:61
+msgid "Bookings Status"
+msgstr "Rezervasyonları Durum"
+
+#: manageBookings.php:75
+msgid "Booking Calendar"
+msgstr "Rezervasyon Takvimi"
+
+#: manageClients.php:14
+msgid "CLIENTS"
+msgstr "MÜŞTERİLER"
+
+#: manageClients.php:24 menus.php:28
+msgid "Clients"
+msgstr "Müşteriler"
+
+#: manageClients.php:32
+msgid "First Name"
+msgstr "ad"
+
+#: manageClients.php:33
+msgid "Last Name"
+msgstr "soyadı"
+
+#: manageClients.php:34
+msgid "Email Address"
+msgstr "e-posta Adresi"
+
+#: manageClients.php:36
+msgid "City"
+msgstr "şehir"
+
+#: manageClients.php:37
+msgid "Country"
+msgstr "ülke"
+
+#: manageClients.php:62
+msgid "Edit Client?"
+msgstr "Müşteri düzenle?"
+
+#: manageClients.php:63
+msgid "Email Client?"
+msgstr "Müşteri e-posta?"
+
+#: manageClients.php:68 manageClients.php:152
+msgid "Payment Details"
+msgstr "Ödeme Ayrıntıları"
+
+#: manageClients.php:72
+msgid "Booking Details"
+msgstr "Rezervasyon Detayları"
+
+#: manageClients.php:73
+msgid "Delete Client"
+msgstr "Müşteri Sil"
+
+#: manageClients.php:102
+msgid "Edit Customer "
+msgstr "Müşteri düzenle"
+
+#: manageClients.php:132
+msgid "Customer Bookings"
+msgstr "Müşteri Rezervasyonları"
+
+#: manageClients.php:172
+msgid "Email Customer "
+msgstr "e-Posta Müşteri"
+
+#: manageClients.php:180
+msgid "Success! Email has been sent."
+msgstr "Başarı! E-posta gönderildi."
+
+#: manageClients.php:189 manageEmailTemplate.php:49
+#: manageEmailTemplate.php:104 manageEmailTemplate.php:159
+#: manageEmailTemplate.php:214 manageEmailTemplate.php:269
+msgid "Email Subject :"
+msgstr "E-posta Konu:"
+
+#: manageClients.php:197 manageEmailTemplate.php:57
+#: manageEmailTemplate.php:112 manageEmailTemplate.php:167
+#: manageEmailTemplate.php:222 manageEmailTemplate.php:277
+msgid "Email Content :"
+msgstr "Email İçerik:"
+
+#: manageClients.php:211
+msgid "Send Email"
+msgstr "e-posta Gönder"
+
+#: manageClients.php:374
+msgid "You cannot delete this Customer until all Bookings have been deleted."
+msgstr "Tüm Rezervasyonları silinene kadar bu Müşteri silemezsiniz."
+
+#: manageCoupons.php:14 manageCoupons.php:24
+msgid "COUPONS"
+msgstr "KUPONLAR"
+
+#: manageCoupons.php:31
+msgid "Discount Coupon"
+msgstr "İndirim Kuponu"
+
+#: manageCoupons.php:32
+msgid "Valid From"
+msgstr "Geçerlilik"
+
+#: manageCoupons.php:33
+msgid "Valid Upto"
+msgstr "kadar geçerlidir"
+
+#: manageCoupons.php:34 manageCoupons.php:137
+msgid "Amount"
+msgstr "miktar"
+
+#: manageCoupons.php:35
+msgid "Amount Type"
+msgstr "Tutar Türü"
+
+#: manageCoupons.php:36
+msgid "Apply to All"
+msgstr "Tümüne Uygula"
+
+#: manageCoupons.php:141
+msgid "Percentage"
+msgstr "yüzdesi"
+
+#: manageCoupons.php:148
+msgid "Yes"
+msgstr "evet"
+
+#: manageCoupons.php:152
+msgid "No"
+msgstr "hayır"
+
+#: manageCoupons.php:175
+msgid "Delete Coupon"
+msgstr "Kupon sil"
+
+#: manageEmailTemplate.php:14
+msgid "EMAIL TEMPLATES"
+msgstr "e-posta şablonları"
+
+#: manageEmailTemplate.php:25 manageEmailTemplate.php:81
+#: manageEmailTemplate.php:136 manageEmailTemplate.php:191
+#: manageEmailTemplate.php:246
+msgid "Success! The Email has been saved."
+msgstr "Başarı!E-posta kaydedildi."
+
+#: manageEmailTemplate.php:42
+msgid "Approval Pending Email Template [Sent to Client]"
+msgstr "Onay Bekleyen E-posta Şablonu [Client Gönderilen]"
+
+#: manageEmailTemplate.php:97
+msgid "Approved Email Template [Sent to Client]"
+msgstr "Onaylanmış E-posta Şablonu [Client Gönderilen]"
+
+#: manageEmailTemplate.php:152
+msgid "Disapproved Email Template [Sent to Client]"
+msgstr "Onaylanmamış E-posta Şablonu [Client Gönderilen]"
+
+#: manageEmailTemplate.php:207
+msgid "Approve/Disapprove Email Template [Sent to Admin]"
+msgstr "Onayla / [Yönetici Gönderilen] E-posta Şablonu Onaylamıyor"
+
+#: manageEmailTemplate.php:262
+msgid "Paypal Admin Notification Email Template [Sent to Admin]"
+msgstr "Paypal Yönetici Bildirim E-posta Şablonu [Yönetici Gönderilen]"
+
+#: manageReportBug.php:11
+msgid "REPORT A BUG"
+msgstr "Bir hata raporu"
+
+#: manageReportBug.php:25 menus.php:48
+msgid "Report a Bug"
+msgstr "Bir Hata Raporu"
+
+#: manageReportBug.php:31
+msgid "Your Email :"
+msgstr "E-Posta:"
+
+#: manageReportBug.php:37
+msgid "Subject :"
+msgstr "Konu:"
+
+#: manageReportBug.php:43
+msgid "Bug / Issue :"
+msgstr "böcek/ Sayı:"
+
+#: manageReportBug.php:50
+msgid "Report It!"
+msgstr "Bu Rapor!"
+
+#: manageServices.php:14 manageServices.php:24
+msgid "SERVICES"
+msgstr "HİZMETLER"
+
+#: manageServices.php:31
+msgid "Service Display Order"
+msgstr "Hizmet Siparişi Görüntüle"
+
+#: manageServices.php:36
+msgid "FullDay"
+msgstr "Tam Gün"
+
+#: manageServices.php:37
+msgid "Time"
+msgstr "zaman"
+
+#: manageServices.php:38
+msgid "Business Hours"
+msgstr "iş saatleri"
+
+#: manageServices.php:121
+msgid " Hrs "
+msgstr "saat"
+
+#: manageServices.php:176
+msgid "Edit Service?"
+msgstr "Hizmet Düzenle?"
+
+#: manageServices.php:176
+msgid "Delete Service?"
+msgstr "Hizmet silinsin mi?"
+
+#: manageServices.php:190
+msgid "Update Existing Service"
+msgstr "Mevcut Güncelleme Servisi"
+
+#: manageServices.php:196
+msgid "Success! The Service has been updated Successfully."
+msgstr "Başarı!Hizmet başarıyla güncellendi."
+
+#: manageServices.php:270
+msgid "Are you sure you want to delete this Service"
+msgstr "Eğer bu Rezervasyon silmek istediğinizden emin misiniz?"
+
+#: manageServices.php:285
+msgid ""
+"Unfortunately, this service could not be deleted until all bookings are "
+"deleted."
+msgstr "Personelden de-tahsis kadar bu Hizmet silinemez."
+
+#: menus.php:43
+msgid "Email Templates"
+msgstr "e-posta Şablonları"
+
+#: menus.php:59
+msgid "Overview Stats"
+msgstr "Genel İstatistikler"
+
+#: menus.php:62
+msgid "Total Bookings"
+msgstr "Toplam Rezervasyonları"
+
+#: menus.php:68
+msgid "Total Services"
+msgstr "Toplam Hizmetleri"
+
+#: menus.php:74
+msgid "Total Clients"
+msgstr "Toplam İstemciler"
+
+#: menus.php:80
+msgid "Total Coupons"
+msgstr "Toplam Kuponlar"
+
+#: menus.php:86
+msgid "Total BlockOuts"
+msgstr "Toplam Blok çıkışları"
+
+#: menus.php:109
+msgid "Bookings Today"
+msgstr "Rezervasyonları Bugün"
+
+#~ msgid "Copyright your company."
+#~ msgstr "Telif şirket."
+
+#~ msgid "Mustache!"
+#~ msgstr "Bıyık!"
+
+#~ msgid " 2013 Bookings-Engine"
+#~ msgstr "2013 Rezervasyonları-Motoru"

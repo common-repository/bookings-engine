@@ -1,0 +1,1047 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookings Engine Lite Version\n"
+"POT-Creation-Date: 2013-04-11 17:18+0530\n"
+"PO-Revision-Date: 2013-04-12 14:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\Dev6\\wp-content\\plugins\\bookings-"
+"engine\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bookingCalendar.php:28 bookingCalendarBackEnd.php:28
+msgid "Choose Service"
+msgstr "Escolha serviço"
+
+#: bookingCalendar.php:34 bookingCalendarBackEnd.php:34
+msgid "Choose Availability"
+msgstr "Escolha Disponibilidade"
+
+#: bookingCalendar.php:41 bookingCalendarBackEnd.php:41
+msgid "Fill in Information"
+msgstr "Preencha Informação"
+
+#: bookingCalendar.php:48 bookingCalendarBackEnd.php:48
+msgid "Confirm Booking"
+msgstr "confirmar a reserva"
+
+#: bookingCalendar.php:60 bookingCalendarBackEnd.php:60 dashboard.php:189
+#: functions.php:1973 manageBlockOuts.php:32 manageCoupons.php:38
+#: manageServices.php:33
+msgid "Service"
+msgstr "serviço"
+
+#: bookingCalendar.php:61 bookingCalendarBackEnd.php:61 manageServices.php:34
+msgid "Cost"
+msgstr "custar"
+
+#: bookingCalendar.php:62 bookingCalendarBackEnd.php:62 manageServices.php:35
+msgid "Type"
+msgstr "tipo"
+
+#: bookingCalendar.php:111 bookingCalendarBackEnd.php:111 dashboard.php:555
+#: functions.php:527 functions.php:536
+msgid "Single Booking"
+msgstr "Reserva única"
+
+#: bookingCalendar.php:137 bookingCalendarBackEnd.php:137
+msgid "Please choose Service"
+msgstr "Por favor, escolha Serviço"
+
+#: bookingCalendar.php:297 bookingCalendarBackEnd.php:297
+msgid "Booking Details :"
+msgstr "Detalhes de reserva:"
+
+#: bookingCalendar.php:330 bookingCalendarBackEnd.php:330
+msgid "Previous Step"
+msgstr "Passo anterior"
+
+#: bookingCalendar.php:335 bookingCalendarBackEnd.php:335
+msgid "Next Step"
+msgstr "Próximo Passo"
+
+#: bookingCalendar.php:406 bookingCalendarBackEnd.php:405
+msgid "Please choose atleast one Service"
+msgstr "Por favor, escolha pelo menos um serviço"
+
+#: bookingCalendar.php:430 bookingCalendarBackEnd.php:429
+msgid "Please choose Booking date"
+msgstr "Por favor, escolher a data de reserva"
+
+#: bookingCalendar.php:445 bookingCalendarBackEnd.php:444
+msgid "Please choose Booking date and time"
+msgstr "Por favor, escolher a data de reserva"
+
+#: bookingCalendar.php:703 bookingCalendarBackEnd.php:702
+msgid "Coupon is not valid"
+msgstr "Cupom não é válido"
+
+#: bookings-engine.php:279 bookings-engine.php:299 dashboard.php:1196
+msgid "Book New Service"
+msgstr "Novo livro de serviço"
+
+#: dashboard.php:18 manageBlockOuts.php:9 manageBookingForm.php:9
+#: manageBookings.php:9 manageClients.php:9 manageCoupons.php:9
+#: manageEmailTemplate.php:9 manageReportBug.php:8 manageServices.php:9
+msgid "BOOKINGS ENGINE"
+msgstr "MOTOR RESERVAS"
+
+#: dashboard.php:23 menus.php:8
+msgid "Dashboard"
+msgstr "painel de instrumentos"
+
+#: dashboard.php:34
+msgid ""
+"You are using Lite Version of Bookings Engine. To enjoy full features, "
+"purchase Commercial Version now by clicking <a href='http://bookings-engine."
+"com' target='_blank'>here</a>. "
+msgstr ""
+"Você está usando versão Lite do motor de reservas. Para desfrutar de todas "
+"as características, comprar a versão comercial agora clicando <a "
+"href='http://bookings-engine.com' target='_blank'> aqui </ a>."
+
+#: dashboard.php:40
+msgid "Action Panel"
+msgstr "Painel de ação"
+
+#: dashboard.php:49
+msgid "Book a Service"
+msgstr "Reserve um serviço"
+
+#: dashboard.php:58
+msgid "Add Services"
+msgstr "Adicionar Serviços"
+
+#: dashboard.php:67 manageBlockOuts.php:24 manageBlockOuts.php:35
+#: manageBookings.php:68 menus.php:33
+msgid "Block Outs"
+msgstr "Outs bloco"
+
+#: dashboard.php:76 dashboard.php:1185 menus.php:23
+msgid "Coupons"
+msgstr "cupons"
+
+#: dashboard.php:85 dashboard.php:758 menus.php:98
+msgid "Default Settings"
+msgstr "Predefinições"
+
+#: dashboard.php:93 dashboard.php:1163 functions.php:3312
+msgid "Reminder Settings"
+msgstr "Configurações lembrete"
+
+#: dashboard.php:102
+msgid "ShortCodes"
+msgstr "Códigos curtos"
+
+#: dashboard.php:110
+msgid "Paypal Settings"
+msgstr "Configurações paypal"
+
+#: dashboard.php:119 functions.php:3280
+msgid "Mailchimp Settings"
+msgstr "Configurações MailChimp"
+
+#: dashboard.php:128
+msgid "Facebook Connect"
+msgstr "Facebook conectar"
+
+#: dashboard.php:137
+msgid "Auto Approve"
+msgstr "automático Aprovar"
+
+#: dashboard.php:146
+msgid "Delete All Bookings"
+msgstr "Excluir todos os reservas"
+
+#: dashboard.php:154
+msgid "Restore Factory Settings"
+msgstr "Restaurar as configurações de fábrica"
+
+#: dashboard.php:163
+msgid "Upcoming Bookings"
+msgstr "próximas reservas"
+
+#: dashboard.php:187
+msgid "Client Name"
+msgstr "Nome do Cliente"
+
+#: dashboard.php:188 manageClients.php:35
+msgid "Mobile"
+msgstr "móvel"
+
+#: dashboard.php:190
+msgid "Booking Date"
+msgstr "Data reserva"
+
+#: dashboard.php:191 functions.php:1975
+msgid "Time Slot"
+msgstr "Ranhura de tempo"
+
+#: dashboard.php:281
+msgid "Booking Status : Approved"
+msgstr "Estado reserva: Aprovado"
+
+#: dashboard.php:287
+msgid "Booking Status : Disapproved"
+msgstr "Estado reserva: Reprovado"
+
+#: dashboard.php:293
+msgid "Booking Status : Pending Approval"
+msgstr "Estado reserva: Aprovação Pendente"
+
+#: dashboard.php:299
+msgid "Booking Status : Cancelled"
+msgstr "Estado reserva: Cancelado"
+
+#: dashboard.php:429
+msgid "Edit Booking?"
+msgstr "Edite reserva?"
+
+#: dashboard.php:434
+msgid "Send Email Again?"
+msgstr "Enviar e-mail novamente?"
+
+#: dashboard.php:438
+msgid "Delete Booking?"
+msgstr "Excluir reserva?"
+
+#: dashboard.php:453 manageBlockOuts.php:330 manageBookingForm.php:159
+#: manageBookings.php:87 manageClients.php:87 manageCoupons.php:188
+#: manageEmailTemplate.php:302 manageReportBug.php:60 manageServices.php:230
+msgid "2013 Bookings-Engine"
+msgstr "2013 Reservas-motor"
+
+#: dashboard.php:456 manageBlockOuts.php:333 manageBookingForm.php:162
+#: manageBookings.php:90 manageClients.php:90 manageCoupons.php:191
+#: manageEmailTemplate.php:305 manageReportBug.php:63 manageServices.php:233
+msgid "Powered by "
+msgstr "alimentado por"
+
+#: dashboard.php:458 manageBlockOuts.php:335 manageBookingForm.php:164
+#: manageBookings.php:92 manageClients.php:92 manageCoupons.php:193
+#: manageEmailTemplate.php:307 manageReportBug.php:65 manageServices.php:235
+msgid "Bookings Engine!"
+msgstr "Reservas do motor!"
+
+#: dashboard.php:465
+msgid "Facebook Connect Settings"
+msgstr "Configurações Facebook Connect"
+
+#: dashboard.php:476
+msgid "MailChimp Settings"
+msgstr "Configurações MailChimp"
+
+#: dashboard.php:488
+msgid "Add New Service"
+msgstr "Adicionar novo serviço"
+
+#: dashboard.php:493
+msgid "Success! Service has been saved."
+msgstr "Sucesso! Serviço foi salvo."
+
+#: dashboard.php:500 manageServices.php:201
+msgid "Error! Max Bookings should be greater than 1"
+msgstr "Erro! Reservas max deve ser superior a 1"
+
+#: dashboard.php:507 manageServices.php:207
+msgid "Error! Please Enter the Valid Time."
+msgstr "Erro! Por favor insira o tempo válido."
+
+#: dashboard.php:517 functions.php:501
+msgid "Service Color :"
+msgstr "Cor do serviço:"
+
+#: dashboard.php:526 functions.php:509
+msgid "Service Name :"
+msgstr "Nome do serviço:"
+
+#: dashboard.php:544
+msgid "Service Cost ("
+msgstr "Custo serviço("
+
+#: dashboard.php:552 functions.php:521
+msgid "Service Type :"
+msgstr "Tipo de Serviço:"
+
+#: dashboard.php:556 functions.php:528 functions.php:537
+msgid "Group Bookings"
+msgstr "Reservas para grupos"
+
+#: dashboard.php:561
+msgid "Max Bookings :"
+msgstr "Reservas: Max"
+
+#: dashboard.php:569 functions.php:568
+msgid "Full Day Service :"
+msgstr "Serviço Dia cheio:"
+
+#: dashboard.php:577 functions.php:591 functions.php:622
+msgid "Allow Max. Days :"
+msgstr "Permitir máx. dias:"
+
+#: dashboard.php:595 functions.php:653 functions.php:665
+msgid "Cost Type :"
+msgstr "Custo Tipo:"
+
+#: dashboard.php:598
+msgid "Per Day"
+msgstr "por dia"
+
+#: dashboard.php:599 functions.php:656 functions.php:673 functions.php:682
+msgid "Fixed"
+msgstr "corrigido"
+
+#: dashboard.php:604 functions.php:694 functions.php:978
+msgid "Service Time :"
+msgstr "Tempo de Serviço:"
+
+#: dashboard.php:614 dashboard.php:620 manageServices.php:116
+msgid " Hrs"
+msgstr "horas"
+
+#: dashboard.php:633 dashboard.php:639 manageServices.php:111
+#: manageServices.php:123
+msgid " Mins"
+msgstr "minutos"
+
+#: dashboard.php:649 functions.php:772 functions.php:1055
+msgid "Start Time :"
+msgstr "Hora de início:"
+
+#: dashboard.php:683 dashboard.php:724
+msgid "AM"
+msgstr "no"
+
+#: dashboard.php:684 dashboard.php:725
+msgid "PM"
+msgstr "pm"
+
+#: dashboard.php:690 functions.php:880 functions.php:1164
+msgid "End Time :"
+msgstr "Fim:"
+
+#: dashboard.php:745 dashboard.php:1098 dashboard.php:1149 dashboard.php:1259
+#: manageBookingForm.php:149 manageClients.php:122 manageEmailTemplate.php:70
+#: manageEmailTemplate.php:125 manageEmailTemplate.php:180
+#: manageEmailTemplate.php:235 manageEmailTemplate.php:290
+#: manageServices.php:220
+msgid "Submit & Save Changes"
+msgstr "Enviar e Salvar alterações"
+
+#: dashboard.php:762
+msgid "Success! Default Settings has been saved."
+msgstr "Sucesso! Predefinições foi salvo."
+
+#: dashboard.php:771
+msgid "Currency :"
+msgstr "moeda:"
+
+#: dashboard.php:822 functions.php:1725
+msgid "Country :"
+msgstr "país:"
+
+#: dashboard.php:873
+msgid "Date Format :"
+msgstr "Formato de data:"
+
+#: dashboard.php:974
+msgid "Time Format :"
+msgstr "Formato da Hora:"
+
+#: dashboard.php:983 dashboard.php:994 functions.php:3192
+msgid "12 Hours"
+msgstr "12 Horas"
+
+#: dashboard.php:986 dashboard.php:997 functions.php:3200
+msgid "24 Hours"
+msgstr "24 Horas"
+
+#: dashboard.php:1017
+msgid "Time Zone :"
+msgstr "Fuso horário:"
+
+#: dashboard.php:1060
+msgid "Service Display :"
+msgstr "Exibição do serviço:"
+
+#: dashboard.php:1078 dashboard.php:1085
+msgid "Radio Button"
+msgstr "Botão de rádio"
+
+#: dashboard.php:1079 dashboard.php:1086
+msgid "Drop Down List"
+msgstr "Lista suspensa"
+
+#: dashboard.php:1112
+msgid "PayPal Settings"
+msgstr "Configurações PayPal"
+
+#: dashboard.php:1124
+msgid "Auto Approve Bookings"
+msgstr "automático Aprovar reservas"
+
+#: dashboard.php:1128
+msgid "Success! Auto Approve has been saved."
+msgstr "Sucesso! Auto Aprovar foi salvo."
+
+#: dashboard.php:1137
+msgid "Auto Approve :"
+msgstr "automático Aprovar:"
+
+#: dashboard.php:1140
+msgid "Enabled"
+msgstr "habilitado"
+
+#: dashboard.php:1141
+msgid "Disabled"
+msgstr "inválido"
+
+#: dashboard.php:1174
+msgid "Block Outs Settings"
+msgstr "Bloquear definições saídas"
+
+#: dashboard.php:1206
+msgid "Shortcodes "
+msgstr "Os códigos de acesso"
+
+#: dashboard.php:1213
+msgid "Form Embed :"
+msgstr "Formar Embed:"
+
+#: dashboard.php:1219
+msgid "Popup Form :"
+msgstr "Formulário pop-up:"
+
+#: dashboard.php:1234
+msgid "Edit Customer Booking "
+msgstr "Edite reserva Cliente"
+
+#: dashboard.php:1240 manageClients.php:110
+msgid "Success! The Customer has been Updated."
+msgstr "Sucesso! O cliente foi atualizado"
+
+#: dashboard.php:1247
+msgid "Success! The Booking has been Updated."
+msgstr "Sucesso! A reserva foi atualizado."
+
+#: dashboard.php:1581
+msgid "Are you sure you want to Delete All Bookings?"
+msgstr "Tem certeza de que deseja excluir todos os reservas?"
+
+#: dashboard.php:1602
+msgid "Are you sure you want to Restore Factory Settings ?"
+msgstr "Tem certeza de que deseja restaurar as configurações de fábrica?"
+
+#: dashboard.php:1623
+msgid "Are you sure you want to delete this Booking?"
+msgstr "Tem certeza de que deseja excluir esta reserva?"
+
+#: dashboard.php:1652
+msgid "Email has been Sent successfully."
+msgstr "E-mail foi enviada com sucesso."
+
+#: functions.php:277 functions.php:301 functions.php:435 functions.php:3223
+#: functions.php:3255 functions.php:3286 functions.php:3318 functions.php:3365
+msgid "On"
+msgstr "em"
+
+#: functions.php:281 functions.php:297 functions.php:439 functions.php:3231
+#: functions.php:3263 functions.php:3294 functions.php:3342 functions.php:3373
+msgid "Off"
+msgstr "fora"
+
+#: functions.php:515
+msgid "Cost :"
+msgstr "custo:"
+
+#: functions.php:548 functions.php:559
+msgid "Max Bookings<br/>(Each Slot) :"
+msgstr "Reservas Max <br/> (cada ranhura):"
+
+#: functions.php:655 functions.php:672 functions.php:681
+msgid "Per day"
+msgstr "por dia"
+
+#: functions.php:716 functions.php:729 functions.php:1000 functions.php:1012
+msgid " Hours"
+msgstr "horas"
+
+#: functions.php:749 functions.php:762 functions.php:1032 functions.php:1045
+msgid " Minutes"
+msgstr "atas"
+
+#: functions.php:1663
+msgid "First Name :"
+msgstr "Nome:"
+
+#: functions.php:1669
+msgid "Last Name :"
+msgstr "Sobrenome:"
+
+#: functions.php:1675 functions.php:3908
+msgid "Email :"
+msgstr "e-mail:"
+
+#: functions.php:1681
+msgid "Telephone :"
+msgstr "telefone:"
+
+#: functions.php:1687 functions.php:3919
+msgid "Mobile :"
+msgstr "celular:"
+
+#: functions.php:1693
+msgid "Skype Id :"
+msgstr "Skype Id:"
+
+#: functions.php:1699
+msgid "Address 1 :"
+msgstr "Endereço 1:"
+
+#: functions.php:1707
+msgid "Address 2 :"
+msgstr "Endereço 2:"
+
+#: functions.php:1713
+msgid "City :"
+msgstr "cidade:"
+
+#: functions.php:1719
+msgid "Post Code :"
+msgstr "Código Postal:"
+
+#: functions.php:1757
+msgid "Comments :"
+msgstr "comentários:"
+
+#: functions.php:1953
+msgid "bookingExist"
+msgstr "existem reservas"
+
+#: functions.php:1974
+msgid "Date"
+msgstr "data"
+
+#: functions.php:1976 manageCoupons.php:37
+msgid "Status"
+msgstr "estado"
+
+#: functions.php:3111
+msgid "Default Currency"
+msgstr "moeda padrão"
+
+#: functions.php:3127
+msgid "Date Format"
+msgstr "Formato de data"
+
+#: functions.php:3186
+msgid "Time Format"
+msgstr "Formato da Hora"
+
+#: functions.php:3217
+msgid "Paypal Status"
+msgstr "Estado Paypal"
+
+#: functions.php:3249
+msgid "Facebook Settings"
+msgstr "Facebook Configurações"
+
+#: functions.php:3331
+msgid "Reminder Interval"
+msgstr "Intervalo lembrete"
+
+#: functions.php:3359
+msgid "Auto Approve: "
+msgstr "automático Aprovar:"
+
+#: functions.php:3897
+msgid "Client Name :"
+msgstr "Nome do cliente:"
+
+#: functions.php:3929
+msgid "Service Booked :"
+msgstr "Serviço Reservado:"
+
+#: functions.php:3939
+msgid "Booking Date :"
+msgstr "Reserva Data:"
+
+#: functions.php:4026
+msgid "Time Slot :"
+msgstr "Slot de tempo:"
+
+#: functions.php:4093
+msgid "Payment Status:"
+msgstr "Situação do pagamento:"
+
+#: functions.php:4102
+msgid "Transaction ID :"
+msgstr "ID da transação:"
+
+#: functions.php:4111
+msgid "Payment Date :"
+msgstr "Data de pagamento:"
+
+#: functions.php:4124
+msgid "Booking Status :"
+msgstr "Reserva Estado:"
+
+#: functions.php:4133 functions.php:4153 functions.php:4163 functions.php:4173
+#: manageBookings.php:65
+msgid "Approved"
+msgstr "aprovado"
+
+#: functions.php:4134 functions.php:4144 functions.php:4164 functions.php:4174
+#: manageBookings.php:66
+msgid "Disapproved"
+msgstr "reprovado"
+
+#: functions.php:4135 functions.php:4145 functions.php:4155 functions.php:4175
+#: manageBookings.php:67
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#: functions.php:4136 functions.php:4146 functions.php:4156 functions.php:4166
+msgid "Completed"
+msgstr "concluído"
+
+#: functions.php:4142 functions.php:4152 functions.php:4162 functions.php:4172
+#: manageBookings.php:64
+msgid "Pending Approval"
+msgstr "Aprovação Pendente"
+
+#: manageAffiliates.php:6
+msgid "Mange Affiliates"
+msgstr "Afiliados da sarna"
+
+#: manageBlockOuts.php:14
+msgid "BLOCKOUTS"
+msgstr "OUTS BLOCO"
+
+#: manageBlockOuts.php:102 manageBlockOuts.php:106
+msgid "Daily with full day Block Outs from "
+msgstr "Diariamente com saídas de bloco de dias de"
+
+#: manageBlockOuts.php:107 manageBlockOuts.php:121 manageBlockOuts.php:160
+#: manageBlockOuts.php:176 manageBlockOuts.php:198 manageBlockOuts.php:215
+#: manageBlockOuts.php:256 manageBlockOuts.php:272 manageBlockOuts.php:291
+#: manageBlockOuts.php:306
+msgid " upto "
+msgstr "até"
+
+#: manageBlockOuts.php:114 manageBlockOuts.php:119 manageBlockOuts.php:169
+#: manageBlockOuts.php:175 manageBlockOuts.php:205 manageBlockOuts.php:212
+#: manageBlockOuts.php:284 manageBlockOuts.php:290 manageBlockOuts.php:299
+#: manageBlockOuts.php:305
+msgid "Every "
+msgstr "cada"
+
+#: manageBlockOuts.php:115 manageBlockOuts.php:120
+msgid " days with full day Block Outs from "
+msgstr "dias, com saídas de bloco de dias de"
+
+#: manageBlockOuts.php:153 manageBlockOuts.php:159
+msgid "Daily from "
+msgstr "Diárias a partir de"
+
+#: manageBlockOuts.php:154 manageBlockOuts.php:161 manageBlockOuts.php:170
+#: manageBlockOuts.php:177 manageBlockOuts.php:250 manageBlockOuts.php:257
+#: manageBlockOuts.php:266 manageBlockOuts.php:273 manageBlockOuts.php:285
+#: manageBlockOuts.php:291 manageBlockOuts.php:301 manageBlockOuts.php:307
+msgid " starting from "
+msgstr "a partir de"
+
+#: manageBlockOuts.php:155 manageBlockOuts.php:162 manageBlockOuts.php:171
+#: manageBlockOuts.php:178 manageBlockOuts.php:251 manageBlockOuts.php:258
+#: manageBlockOuts.php:267 manageBlockOuts.php:273 manageBlockOuts.php:286
+#: manageBlockOuts.php:292 manageBlockOuts.php:301 manageBlockOuts.php:307
+msgid " till "
+msgstr "até"
+
+#: manageBlockOuts.php:169 manageBlockOuts.php:175
+msgid " days from "
+msgstr "dias a partir"
+
+#: manageBlockOuts.php:191 manageBlockOuts.php:196
+msgid "Weekly with full day Block Outs on "
+msgstr "Semanal com Outs dia inteiro de bloco em"
+
+#: manageBlockOuts.php:192 manageBlockOuts.php:197 manageBlockOuts.php:265
+#: manageBlockOuts.php:271 manageBlockOuts.php:300 manageBlockOuts.php:306
+msgid " from "
+msgstr "de"
+
+#: manageBlockOuts.php:206 manageBlockOuts.php:213 manageBlockOuts.php:299
+#: manageBlockOuts.php:305
+msgid " weeks on "
+msgstr "semanas a"
+
+#: manageBlockOuts.php:207 manageBlockOuts.php:214
+msgid " with full day Block Outs from "
+msgstr "com saídas de dia inteiro quarteirão"
+
+#: manageBlockOuts.php:249 manageBlockOuts.php:255
+msgid "Weekly from "
+msgstr "semanal de"
+
+#: manageBlockOuts.php:265 manageBlockOuts.php:271
+msgid "Weekly on "
+msgstr "semanal sobre"
+
+#: manageBlockOuts.php:284 manageBlockOuts.php:290
+msgid " weeks from "
+msgstr "semanas a partir de"
+
+#: manageBlockOuts.php:316
+msgid "Delete Block Out"
+msgstr "Excluir bloquear"
+
+#: manageBookingForm.php:14
+msgid "FORM SETUP"
+msgstr "CONFIGURAÇÃO FORMULÁRIO"
+
+#: manageBookingForm.php:25 manageReportBug.php:20
+msgid "Success! The Email has been sent."
+msgstr "Sucesso! O e-mail foi enviado."
+
+#: manageBookingForm.php:32
+msgid "Success! The Booking Fields has been updated."
+msgstr "Sucesso! Os Campos de reserva foi atualizado."
+
+#: manageBookingForm.php:38 menus.php:38
+msgid "Form Setup"
+msgstr "Configuração forma"
+
+#: manageBookingForm.php:47
+msgid "Field Name"
+msgstr "Nome do Campo"
+
+#: manageBookingForm.php:50
+msgid "Visibility"
+msgstr "visibilidade"
+
+#: manageBookingForm.php:53
+msgid "Validation"
+msgstr "validação"
+
+#: manageBookingForm.php:103 manageBookingForm.php:124
+msgid "Visible"
+msgstr "visível"
+
+#: manageBookingForm.php:106 manageBookingForm.php:127
+msgid "Invisible"
+msgstr "invisível"
+
+#: manageBookingForm.php:111 manageBookingForm.php:132
+msgid "Required"
+msgstr "exigido"
+
+#: manageBookingForm.php:114 manageBookingForm.php:135
+msgid "Not Required"
+msgstr "não é necessária"
+
+#: manageBookings.php:14 menus.php:13
+msgid "Bookings"
+msgstr "reservas"
+
+#: manageBookings.php:24
+msgid "Advanced Booking Filter"
+msgstr "Filtro de reserva antecipada"
+
+#: manageBookings.php:30 menus.php:18
+msgid "Services"
+msgstr "serviços"
+
+#: manageBookings.php:44
+msgid "All Services"
+msgstr "Todos os Serviços"
+
+#: manageBookings.php:61
+msgid "Bookings Status"
+msgstr "Estado reservas"
+
+#: manageBookings.php:75
+msgid "Booking Calendar"
+msgstr "Calendário reserva"
+
+#: manageClients.php:14
+msgid "CLIENTS"
+msgstr "CLIENTES"
+
+#: manageClients.php:24 menus.php:28
+msgid "Clients"
+msgstr "clientes"
+
+#: manageClients.php:32
+msgid "First Name"
+msgstr "Nome"
+
+#: manageClients.php:33
+msgid "Last Name"
+msgstr "sobrenome"
+
+#: manageClients.php:34
+msgid "Email Address"
+msgstr "Endereço de e-mail"
+
+#: manageClients.php:36
+msgid "City"
+msgstr "cidade"
+
+#: manageClients.php:37
+msgid "Country"
+msgstr "país"
+
+#: manageClients.php:62
+msgid "Edit Client?"
+msgstr "Editar Cliente?"
+
+#: manageClients.php:63
+msgid "Email Client?"
+msgstr "Enviar e-mail do cliente?"
+
+#: manageClients.php:68 manageClients.php:152
+msgid "Payment Details"
+msgstr "Detalhes do pagamento"
+
+#: manageClients.php:72
+msgid "Booking Details"
+msgstr "Detalhes reserva"
+
+#: manageClients.php:73
+msgid "Delete Client"
+msgstr "excluir Cliente"
+
+#: manageClients.php:102
+msgid "Edit Customer "
+msgstr "editar Cliente"
+
+#: manageClients.php:132
+msgid "Customer Bookings"
+msgstr "Reservas de clientes"
+
+#: manageClients.php:172
+msgid "Email Customer "
+msgstr "Cliente de e-mail"
+
+#: manageClients.php:180
+msgid "Success! Email has been sent."
+msgstr "Sucesso! E-mail foi enviado."
+
+#: manageClients.php:189 manageEmailTemplate.php:49
+#: manageEmailTemplate.php:104 manageEmailTemplate.php:159
+#: manageEmailTemplate.php:214 manageEmailTemplate.php:269
+msgid "Email Subject :"
+msgstr "Assunto e-mail:"
+
+#: manageClients.php:197 manageEmailTemplate.php:57
+#: manageEmailTemplate.php:112 manageEmailTemplate.php:167
+#: manageEmailTemplate.php:222 manageEmailTemplate.php:277
+msgid "Email Content :"
+msgstr "Conteúdo de e-mail:"
+
+#: manageClients.php:211
+msgid "Send Email"
+msgstr "enviar E-mail"
+
+#: manageClients.php:374
+msgid "You cannot delete this Customer until all Bookings have been deleted."
+msgstr ""
+"Você não pode excluir este cliente até que todas as reservas foram excluídos."
+
+#: manageCoupons.php:14 manageCoupons.php:24
+msgid "COUPONS"
+msgstr "VALES"
+
+#: manageCoupons.php:31
+msgid "Discount Coupon"
+msgstr "cupom de desconto"
+
+#: manageCoupons.php:32
+msgid "Valid From"
+msgstr "válido de"
+
+#: manageCoupons.php:33
+msgid "Valid Upto"
+msgstr "válido até"
+
+#: manageCoupons.php:34 manageCoupons.php:137
+msgid "Amount"
+msgstr "quantidade"
+
+#: manageCoupons.php:35
+msgid "Amount Type"
+msgstr "Tipo de montante"
+
+#: manageCoupons.php:36
+msgid "Apply to All"
+msgstr "Aplicar a Todos"
+
+#: manageCoupons.php:141
+msgid "Percentage"
+msgstr "percentagem"
+
+#: manageCoupons.php:148
+msgid "Yes"
+msgstr "sim"
+
+#: manageCoupons.php:152
+msgid "No"
+msgstr "não"
+
+#: manageCoupons.php:175
+msgid "Delete Coupon"
+msgstr "excluir Cupom"
+
+#: manageEmailTemplate.php:14
+msgid "EMAIL TEMPLATES"
+msgstr "modelos de email"
+
+#: manageEmailTemplate.php:25 manageEmailTemplate.php:81
+#: manageEmailTemplate.php:136 manageEmailTemplate.php:191
+#: manageEmailTemplate.php:246
+msgid "Success! The Email has been saved."
+msgstr "Sucesso! O e-mail foi salvo."
+
+#: manageEmailTemplate.php:42
+msgid "Approval Pending Email Template [Sent to Client]"
+msgstr "Aprovação de modelo de e-mail pendentes [enviado ao cliente]"
+
+#: manageEmailTemplate.php:97
+msgid "Approved Email Template [Sent to Client]"
+msgstr "Modelo de e-mail aprovado [enviado ao cliente]"
+
+#: manageEmailTemplate.php:152
+msgid "Disapproved Email Template [Sent to Client]"
+msgstr "Modelo de e-mail Reprovado [enviado ao cliente]"
+
+#: manageEmailTemplate.php:207
+msgid "Approve/Disapprove Email Template [Sent to Admin]"
+msgstr "Aprovar / Reprovar modelo de email [enviado ao administrador]"
+
+#: manageEmailTemplate.php:262
+msgid "Paypal Admin Notification Email Template [Sent to Admin]"
+msgstr ""
+"Modelo de e-mail Paypal Administrador Notificação [enviado ao administrador]"
+
+#: manageReportBug.php:11
+msgid "REPORT A BUG"
+msgstr "Assinalar um bicho"
+
+#: manageReportBug.php:25 menus.php:48
+msgid "Report a Bug"
+msgstr "Reportar um bicho"
+
+#: manageReportBug.php:31
+msgid "Your Email :"
+msgstr "Seu e-mail:"
+
+#: manageReportBug.php:37
+msgid "Subject :"
+msgstr "Assunto:"
+
+#: manageReportBug.php:43
+msgid "Bug / Issue :"
+msgstr "bicho/ Problema:"
+
+#: manageReportBug.php:50
+msgid "Report It!"
+msgstr "Denuncie!"
+
+#: manageServices.php:14 manageServices.php:24
+msgid "SERVICES"
+msgstr "SERVIÇOS"
+
+#: manageServices.php:31
+msgid "Service Display Order"
+msgstr "Serviço Ordem de Exibição"
+
+#: manageServices.php:36
+msgid "FullDay"
+msgstr "dia inteiro"
+
+#: manageServices.php:37
+msgid "Time"
+msgstr "tempo"
+
+#: manageServices.php:38
+msgid "Business Hours"
+msgstr "horário de funcionamento"
+
+#: manageServices.php:121
+msgid " Hrs "
+msgstr "hrs"
+
+#: manageServices.php:176
+msgid "Edit Service?"
+msgstr "Edite serviço?"
+
+#: manageServices.php:176
+msgid "Delete Service?"
+msgstr "Excluir serviço?"
+
+#: manageServices.php:190
+msgid "Update Existing Service"
+msgstr "atualizar Service existente"
+
+#: manageServices.php:196
+msgid "Success! The Service has been updated Successfully."
+msgstr "Sucesso! O serviço foi atualizado com sucesso."
+
+#: manageServices.php:270
+msgid "Are you sure you want to delete this Service"
+msgstr "Tem certeza de que deseja excluir esta reserva?"
+
+#: manageServices.php:285
+msgid ""
+"Unfortunately, this service could not be deleted until all bookings are "
+"deleted."
+msgstr "Este serviço não pode ser excluído até de-alocados dos Funcionários."
+
+#: menus.php:43
+msgid "Email Templates"
+msgstr "Modelos de e-mail"
+
+#: menus.php:59
+msgid "Overview Stats"
+msgstr "Visão geral Estatísticas"
+
+#: menus.php:62
+msgid "Total Bookings"
+msgstr "Total de Reservas"
+
+#: menus.php:68
+msgid "Total Services"
+msgstr "total Serviços"
+
+#: menus.php:74
+msgid "Total Clients"
+msgstr "total de clientes"
+
+#: menus.php:80
+msgid "Total Coupons"
+msgstr "total de Cupons"
+
+#: menus.php:86
+msgid "Total BlockOuts"
+msgstr "total de Outs bloco"
+
+#: menus.php:109
+msgid "Bookings Today"
+msgstr "reservas de hoje"
+
+#~ msgid "Copyright your company."
+#~ msgstr "Direitos autorais de sua empresa."
+
+#~ msgid "Mustache!"
+#~ msgstr "Bigode!"
+
+#~ msgid " 2013 Bookings-Engine"
+#~ msgstr "2013 Reservas-Engine"

@@ -1,0 +1,1036 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bookings Engine Lite Version\n"
+"POT-Creation-Date: 2013-04-11 16:50+0530\n"
+"PO-Revision-Date: 2013-04-12 14:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\Dev6\\wp-content\\plugins\\bookings-"
+"engine\n"
+"Language: fi_FI\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bookingCalendar.php:28 bookingCalendarBackEnd.php:28
+msgid "Choose Service"
+msgstr "Valitse palvelu"
+
+#: bookingCalendar.php:34 bookingCalendarBackEnd.php:34
+msgid "Choose Availability"
+msgstr "Valitse saatavuus"
+
+#: bookingCalendar.php:41 bookingCalendarBackEnd.php:41
+msgid "Fill in Information"
+msgstr "Täytä tiedot"
+
+#: bookingCalendar.php:48 bookingCalendarBackEnd.php:48
+msgid "Confirm Booking"
+msgstr "vahvista varaus"
+
+#: bookingCalendar.php:60 bookingCalendarBackEnd.php:60 dashboard.php:189
+#: functions.php:1973 manageBlockOuts.php:32 manageCoupons.php:38
+#: manageServices.php:33
+msgid "Service"
+msgstr "palvelu"
+
+#: bookingCalendar.php:61 bookingCalendarBackEnd.php:61 manageServices.php:34
+msgid "Cost"
+msgstr "maksaa"
+
+#: bookingCalendar.php:62 bookingCalendarBackEnd.php:62 manageServices.php:35
+msgid "Type"
+msgstr "tyyppi"
+
+#: bookingCalendar.php:111 bookingCalendarBackEnd.php:111 dashboard.php:555
+#: functions.php:527 functions.php:536
+msgid "Single Booking"
+msgstr "Yhden varaukset"
+
+#: bookingCalendar.php:137 bookingCalendarBackEnd.php:137
+msgid "Please choose Service"
+msgstr "Valitse palvelu"
+
+#: bookingCalendar.php:297 bookingCalendarBackEnd.php:297
+msgid "Booking Details :"
+msgstr "Varaus tiedot:"
+
+#: bookingCalendar.php:330 bookingCalendarBackEnd.php:330
+msgid "Previous Step"
+msgstr "Edellinen vaihe"
+
+#: bookingCalendar.php:335 bookingCalendarBackEnd.php:335
+msgid "Next Step"
+msgstr "Seuraava vaihe"
+
+#: bookingCalendar.php:406 bookingCalendarBackEnd.php:405
+msgid "Please choose atleast one Service"
+msgstr "Valitse atleast yksi palvelu"
+
+#: bookingCalendar.php:430 bookingCalendarBackEnd.php:429
+msgid "Please choose Booking date"
+msgstr "Valitse Varauspäivä"
+
+#: bookingCalendar.php:445 bookingCalendarBackEnd.php:444
+msgid "Please choose Booking date and time"
+msgstr "Valitse Varauspäivä"
+
+#: bookingCalendar.php:703 bookingCalendarBackEnd.php:702
+msgid "Coupon is not valid"
+msgstr "Kuponki on voimassa"
+
+#: bookings-engine.php:279 bookings-engine.php:299 dashboard.php:1196
+msgid "Book New Service"
+msgstr "Kirja Uusi palvelu"
+
+#: dashboard.php:18 manageBlockOuts.php:9 manageBookingForm.php:9
+#: manageBookings.php:9 manageClients.php:9 manageCoupons.php:9
+#: manageEmailTemplate.php:9 manageReportBug.php:8 manageServices.php:9
+msgid "BOOKINGS ENGINE"
+msgstr "VARAUKSET MOOTTORI"
+
+#: dashboard.php:23 menus.php:8
+msgid "Dashboard"
+msgstr "kojelauta"
+
+#: dashboard.php:34
+msgid ""
+"You are using Lite Version of Bookings Engine. To enjoy full features, "
+"purchase Commercial Version now by clicking <a href='http://bookings-engine."
+"com' target='_blank'>here</a>. "
+msgstr ""
+"Käytät Lite version Varaukset Engine. Voit nauttia kaikista ominaisuuksista "
+"ostaa kaupallinen versio nyt napsauttamalla <a href='http://bookings-engine."
+"com' target='_blank'> täältä </ a>."
+
+#: dashboard.php:40
+msgid "Action Panel"
+msgstr "Toiminta Panel"
+
+#: dashboard.php:49
+msgid "Book a Service"
+msgstr "Varaa Service"
+
+#: dashboard.php:58
+msgid "Add Services"
+msgstr "Lisää Palvelut"
+
+#: dashboard.php:67 manageBlockOuts.php:24 manageBlockOuts.php:35
+#: manageBookings.php:68 menus.php:33
+msgid "Block Outs"
+msgstr "tukkia Poistotuotteet"
+
+#: dashboard.php:76 dashboard.php:1185 menus.php:23
+msgid "Coupons"
+msgstr "Kupongit"
+
+#: dashboard.php:85 dashboard.php:758 menus.php:98
+msgid "Default Settings"
+msgstr "oletusasetukset"
+
+#: dashboard.php:93 dashboard.php:1163 functions.php:3312
+msgid "Reminder Settings"
+msgstr "muistutus asetukset"
+
+#: dashboard.php:102
+msgid "ShortCodes"
+msgstr "lyhytnumeroita"
+
+#: dashboard.php:110
+msgid "Paypal Settings"
+msgstr "Paypal asetukset"
+
+#: dashboard.php:119 functions.php:3280
+msgid "Mailchimp Settings"
+msgstr "MailChimp asetukset"
+
+#: dashboard.php:128
+msgid "Facebook Connect"
+msgstr "Facebook Connect"
+
+#: dashboard.php:137
+msgid "Auto Approve"
+msgstr "auto Hyväksy"
+
+#: dashboard.php:146
+msgid "Delete All Bookings"
+msgstr "Poista kaikki Varaukset"
+
+#: dashboard.php:154
+msgid "Restore Factory Settings"
+msgstr "Palauta Factory Settings"
+
+#: dashboard.php:163
+msgid "Upcoming Bookings"
+msgstr "Tulevat varaukset"
+
+#: dashboard.php:187
+msgid "Client Name"
+msgstr "asiakkaan nimi"
+
+#: dashboard.php:188 manageClients.php:35
+msgid "Mobile"
+msgstr "mobile"
+
+#: dashboard.php:190
+msgid "Booking Date"
+msgstr "varauspäivä"
+
+#: dashboard.php:191 functions.php:1975
+msgid "Time Slot"
+msgstr "aikaväli"
+
+#: dashboard.php:281
+msgid "Booking Status : Approved"
+msgstr "Varaus Tila: Hyväksytty"
+
+#: dashboard.php:287
+msgid "Booking Status : Disapproved"
+msgstr "Varaus Tila: Hylätty"
+
+#: dashboard.php:293
+msgid "Booking Status : Pending Approval"
+msgstr "Varaus Tila: Odottaa hyväksymistä"
+
+#: dashboard.php:299
+msgid "Booking Status : Cancelled"
+msgstr "Varaus Tilanne: Peruutettu"
+
+#: dashboard.php:429
+msgid "Edit Booking?"
+msgstr "Muokkaa varaus?"
+
+#: dashboard.php:434
+msgid "Send Email Again?"
+msgstr "Lähetä sähköpostia Again?"
+
+#: dashboard.php:438
+msgid "Delete Booking?"
+msgstr "Poista varaus?"
+
+#: dashboard.php:453 manageBlockOuts.php:330 manageBookingForm.php:159
+#: manageBookings.php:87 manageClients.php:87 manageCoupons.php:188
+#: manageEmailTemplate.php:302 manageReportBug.php:60 manageServices.php:230
+msgid "2013 Bookings-Engine"
+msgstr "2013 Varaukset-Engine"
+
+#: dashboard.php:456 manageBlockOuts.php:333 manageBookingForm.php:162
+#: manageBookings.php:90 manageClients.php:90 manageCoupons.php:191
+#: manageEmailTemplate.php:305 manageReportBug.php:63 manageServices.php:233
+msgid "Powered by "
+msgstr "powered by"
+
+#: dashboard.php:458 manageBlockOuts.php:335 manageBookingForm.php:164
+#: manageBookings.php:92 manageClients.php:92 manageCoupons.php:193
+#: manageEmailTemplate.php:307 manageReportBug.php:65 manageServices.php:235
+msgid "Bookings Engine!"
+msgstr "Varaukset Moottorin!"
+
+#: dashboard.php:465
+msgid "Facebook Connect Settings"
+msgstr "Facebook Connect-asetukset"
+
+#: dashboard.php:476
+msgid "MailChimp Settings"
+msgstr "MailChimp asetukset"
+
+#: dashboard.php:488
+msgid "Add New Service"
+msgstr "Lisää uusi palvelu"
+
+#: dashboard.php:493
+msgid "Success! Service has been saved."
+msgstr "Onnistui! Palvelu on tallennettu."
+
+#: dashboard.php:500 manageServices.php:201
+msgid "Error! Max Bookings should be greater than 1"
+msgstr "Virhe! Max Varaukset tulisi olla suurempi kuin 1"
+
+#: dashboard.php:507 manageServices.php:207
+msgid "Error! Please Enter the Valid Time."
+msgstr "Virhe! Anna kelvollinen aika."
+
+#: dashboard.php:517 functions.php:501
+msgid "Service Color :"
+msgstr "Palvelun Väri:"
+
+#: dashboard.php:526 functions.php:509
+msgid "Service Name :"
+msgstr "Palvelun nimi:"
+
+#: dashboard.php:544
+msgid "Service Cost ("
+msgstr "Rahoituskustannus ("
+
+#: dashboard.php:552 functions.php:521
+msgid "Service Type :"
+msgstr "Palvelun tyyppi:"
+
+#: dashboard.php:556 functions.php:528 functions.php:537
+msgid "Group Bookings"
+msgstr "Ryhmävaraukset"
+
+#: dashboard.php:561
+msgid "Max Bookings :"
+msgstr "Max Varaukset:"
+
+#: dashboard.php:569 functions.php:568
+msgid "Full Day Service :"
+msgstr "Koko päivä palvelu:"
+
+#: dashboard.php:577 functions.php:591 functions.php:622
+msgid "Allow Max. Days :"
+msgstr "Salli Max. päivää:"
+
+#: dashboard.php:595 functions.php:653 functions.php:665
+msgid "Cost Type :"
+msgstr "Kustannus Tyyppi:"
+
+#: dashboard.php:598
+msgid "Per Day"
+msgstr "päivässä"
+
+#: dashboard.php:599 functions.php:656 functions.php:673 functions.php:682
+msgid "Fixed"
+msgstr "kiinteä"
+
+#: dashboard.php:604 functions.php:694 functions.php:978
+msgid "Service Time :"
+msgstr "Palvelun Aika:"
+
+#: dashboard.php:614 dashboard.php:620 manageServices.php:116
+msgid " Hrs"
+msgstr "tuntia"
+
+#: dashboard.php:633 dashboard.php:639 manageServices.php:111
+#: manageServices.php:123
+msgid " Mins"
+msgstr "min"
+
+#: dashboard.php:649 functions.php:772 functions.php:1055
+msgid "Start Time :"
+msgstr "Alkamisaika:"
+
+#: dashboard.php:683 dashboard.php:724
+msgid "AM"
+msgstr "AM"
+
+#: dashboard.php:684 dashboard.php:725
+msgid "PM"
+msgstr "PM"
+
+#: dashboard.php:690 functions.php:880 functions.php:1164
+msgid "End Time :"
+msgstr "Päättymisaika:"
+
+#: dashboard.php:745 dashboard.php:1098 dashboard.php:1149 dashboard.php:1259
+#: manageBookingForm.php:149 manageClients.php:122 manageEmailTemplate.php:70
+#: manageEmailTemplate.php:125 manageEmailTemplate.php:180
+#: manageEmailTemplate.php:235 manageEmailTemplate.php:290
+#: manageServices.php:220
+msgid "Submit & Save Changes"
+msgstr "Lähetä & Tallenna muutokset"
+
+#: dashboard.php:762
+msgid "Success! Default Settings has been saved."
+msgstr "Onnistui! Oletusasetukset on tallennettu."
+
+#: dashboard.php:771
+msgid "Currency :"
+msgstr "valuutta:"
+
+#: dashboard.php:822 functions.php:1725
+msgid "Country :"
+msgstr "maa:"
+
+#: dashboard.php:873
+msgid "Date Format :"
+msgstr "Päivämäärän muoto:"
+
+#: dashboard.php:974
+msgid "Time Format :"
+msgstr "Aikamuoto:"
+
+#: dashboard.php:983 dashboard.php:994 functions.php:3192
+msgid "12 Hours"
+msgstr "12 tuntia"
+
+#: dashboard.php:986 dashboard.php:997 functions.php:3200
+msgid "24 Hours"
+msgstr "24 tuntia"
+
+#: dashboard.php:1017
+msgid "Time Zone :"
+msgstr "Aikavyöhyke:"
+
+#: dashboard.php:1060
+msgid "Service Display :"
+msgstr "Palvelun Näyttö:"
+
+#: dashboard.php:1078 dashboard.php:1085
+msgid "Radio Button"
+msgstr "valintanappi"
+
+#: dashboard.php:1079 dashboard.php:1086
+msgid "Drop Down List"
+msgstr "Pudotusvalikosta"
+
+#: dashboard.php:1112
+msgid "PayPal Settings"
+msgstr "paypal asetukset"
+
+#: dashboard.php:1124
+msgid "Auto Approve Bookings"
+msgstr "auto Hyväksy Varaukset"
+
+#: dashboard.php:1128
+msgid "Success! Auto Approve has been saved."
+msgstr "Onnistui! Auto Hyväksy on tallennettu."
+
+#: dashboard.php:1137
+msgid "Auto Approve :"
+msgstr "auto Hyväksy:"
+
+#: dashboard.php:1140
+msgid "Enabled"
+msgstr "käytössä"
+
+#: dashboard.php:1141
+msgid "Disabled"
+msgstr "vammaiset"
+
+#: dashboard.php:1174
+msgid "Block Outs Settings"
+msgstr "Estä Poistotuotteet asetukset"
+
+#: dashboard.php:1206
+msgid "Shortcodes "
+msgstr "lyhytkoodit"
+
+#: dashboard.php:1213
+msgid "Form Embed :"
+msgstr "Muoto Embed:"
+
+#: dashboard.php:1219
+msgid "Popup Form :"
+msgstr "popup muoto:"
+
+#: dashboard.php:1234
+msgid "Edit Customer Booking "
+msgstr "Muokkaa Asiakas varaukset"
+
+#: dashboard.php:1240 manageClients.php:110
+msgid "Success! The Customer has been Updated."
+msgstr "Menestys!Asiakas on päivitetty."
+
+#: dashboard.php:1247
+msgid "Success! The Booking has been Updated."
+msgstr "Onnistui!Varaus on päivitetty."
+
+#: dashboard.php:1581
+msgid "Are you sure you want to Delete All Bookings?"
+msgstr "Oletko varma, että haluat poistaa kaikki Varaukset?"
+
+#: dashboard.php:1602
+msgid "Are you sure you want to Restore Factory Settings ?"
+msgstr "Oletko varma, että haluat palauttaa tehdasasetukset?"
+
+#: dashboard.php:1623
+msgid "Are you sure you want to delete this Booking?"
+msgstr "Oletko varma, että haluat poistaa tämän Booking?"
+
+#: dashboard.php:1652
+msgid "Email has been Sent successfully."
+msgstr "Sähköposti on lähetetty onnistuneesti."
+
+#: functions.php:277 functions.php:301 functions.php:435 functions.php:3223
+#: functions.php:3255 functions.php:3286 functions.php:3318 functions.php:3365
+msgid "On"
+msgstr "päälle"
+
+#: functions.php:281 functions.php:297 functions.php:439 functions.php:3231
+#: functions.php:3263 functions.php:3294 functions.php:3342 functions.php:3373
+msgid "Off"
+msgstr "pois"
+
+#: functions.php:515
+msgid "Cost :"
+msgstr "kustannukset:"
+
+#: functions.php:548 functions.php:559
+msgid "Max Bookings<br/>(Each Slot) :"
+msgstr "max Varaukset <br/> (Jokainen paikka):"
+
+#: functions.php:655 functions.php:672 functions.php:681
+msgid "Per day"
+msgstr "päivässä"
+
+#: functions.php:716 functions.php:729 functions.php:1000 functions.php:1012
+msgid " Hours"
+msgstr "tuntia"
+
+#: functions.php:749 functions.php:762 functions.php:1032 functions.php:1045
+msgid " Minutes"
+msgstr "minuuttia"
+
+#: functions.php:1663
+msgid "First Name :"
+msgstr "Etunimi:"
+
+#: functions.php:1669
+msgid "Last Name :"
+msgstr "Sukunimi:"
+
+#: functions.php:1675 functions.php:3908
+msgid "Email :"
+msgstr "Sähköposti:"
+
+#: functions.php:1681
+msgid "Telephone :"
+msgstr "Puhelin:"
+
+#: functions.php:1687 functions.php:3919
+msgid "Mobile :"
+msgstr "Matkapuhelin:"
+
+#: functions.php:1693
+msgid "Skype Id :"
+msgstr "skype Id:"
+
+#: functions.php:1699
+msgid "Address 1 :"
+msgstr "Osoite 1:"
+
+#: functions.php:1707
+msgid "Address 2 :"
+msgstr "Osoite 2:"
+
+#: functions.php:1713
+msgid "City :"
+msgstr "kaupunki:"
+
+#: functions.php:1719
+msgid "Post Code :"
+msgstr "Postinumero:"
+
+#: functions.php:1757
+msgid "Comments :"
+msgstr "Kommentteja:"
+
+#: functions.php:1953
+msgid "bookingExist"
+msgstr "varaus olemassa"
+
+#: functions.php:1974
+msgid "Date"
+msgstr "päivämäärä"
+
+#: functions.php:1976 manageCoupons.php:37
+msgid "Status"
+msgstr "tila"
+
+#: functions.php:3111
+msgid "Default Currency"
+msgstr "Default Valuutta"
+
+#: functions.php:3127
+msgid "Date Format"
+msgstr "päivämäärän muoto"
+
+#: functions.php:3186
+msgid "Time Format"
+msgstr "aikamuoto"
+
+#: functions.php:3217
+msgid "Paypal Status"
+msgstr "Paypal tila"
+
+#: functions.php:3249
+msgid "Facebook Settings"
+msgstr "facebook Asetukset"
+
+#: functions.php:3331
+msgid "Reminder Interval"
+msgstr "muistutus Interval"
+
+#: functions.php:3359
+msgid "Auto Approve: "
+msgstr "auto Hyväksy:"
+
+#: functions.php:3897
+msgid "Client Name :"
+msgstr "Asiakkaan nimi:"
+
+#: functions.php:3929
+msgid "Service Booked :"
+msgstr "palvelu Varattu:"
+
+#: functions.php:3939
+msgid "Booking Date :"
+msgstr "Varaus Päivämäärä:"
+
+#: functions.php:4026
+msgid "Time Slot :"
+msgstr "Aikaväli:"
+
+#: functions.php:4093
+msgid "Payment Status:"
+msgstr "Maksu Tila:"
+
+#: functions.php:4102
+msgid "Transaction ID :"
+msgstr "Kaupan id:"
+
+#: functions.php:4111
+msgid "Payment Date :"
+msgstr "Maksupäivä:"
+
+#: functions.php:4124
+msgid "Booking Status :"
+msgstr "Varaus Tila:"
+
+#: functions.php:4133 functions.php:4153 functions.php:4163 functions.php:4173
+#: manageBookings.php:65
+msgid "Approved"
+msgstr "hyväksytty"
+
+#: functions.php:4134 functions.php:4144 functions.php:4164 functions.php:4174
+#: manageBookings.php:66
+msgid "Disapproved"
+msgstr "Hylätty"
+
+#: functions.php:4135 functions.php:4145 functions.php:4155 functions.php:4175
+#: manageBookings.php:67
+msgid "Cancelled"
+msgstr "Peruutettu"
+
+#: functions.php:4136 functions.php:4146 functions.php:4156 functions.php:4166
+msgid "Completed"
+msgstr "valmistunut"
+
+#: functions.php:4142 functions.php:4152 functions.php:4162 functions.php:4172
+#: manageBookings.php:64
+msgid "Pending Approval"
+msgstr "Odottaa hyväksyntää"
+
+#: manageAffiliates.php:6
+msgid "Mange Affiliates"
+msgstr "monet Kumppanit"
+
+#: manageBlockOuts.php:14
+msgid "BLOCKOUTS"
+msgstr "block out"
+
+#: manageBlockOuts.php:102 manageBlockOuts.php:106
+msgid "Daily with full day Block Outs from "
+msgstr "Päivittäin koko päivän Block Poistotuotteet alkaen"
+
+#: manageBlockOuts.php:107 manageBlockOuts.php:121 manageBlockOuts.php:160
+#: manageBlockOuts.php:176 manageBlockOuts.php:198 manageBlockOuts.php:215
+#: manageBlockOuts.php:256 manageBlockOuts.php:272 manageBlockOuts.php:291
+#: manageBlockOuts.php:306
+msgid " upto "
+msgstr "Jopa"
+
+#: manageBlockOuts.php:114 manageBlockOuts.php:119 manageBlockOuts.php:169
+#: manageBlockOuts.php:175 manageBlockOuts.php:205 manageBlockOuts.php:212
+#: manageBlockOuts.php:284 manageBlockOuts.php:290 manageBlockOuts.php:299
+#: manageBlockOuts.php:305
+msgid "Every "
+msgstr "joka"
+
+#: manageBlockOuts.php:115 manageBlockOuts.php:120
+msgid " days with full day Block Outs from "
+msgstr "päivän koko päivän Block Poistotuotteet alkaen"
+
+#: manageBlockOuts.php:153 manageBlockOuts.php:159
+msgid "Daily from "
+msgstr "päivittäin"
+
+#: manageBlockOuts.php:154 manageBlockOuts.php:161 manageBlockOuts.php:170
+#: manageBlockOuts.php:177 manageBlockOuts.php:250 manageBlockOuts.php:257
+#: manageBlockOuts.php:266 manageBlockOuts.php:273 manageBlockOuts.php:285
+#: manageBlockOuts.php:291 manageBlockOuts.php:301 manageBlockOuts.php:307
+msgid " starting from "
+msgstr "alkaen"
+
+#: manageBlockOuts.php:155 manageBlockOuts.php:162 manageBlockOuts.php:171
+#: manageBlockOuts.php:178 manageBlockOuts.php:251 manageBlockOuts.php:258
+#: manageBlockOuts.php:267 manageBlockOuts.php:273 manageBlockOuts.php:286
+#: manageBlockOuts.php:292 manageBlockOuts.php:301 manageBlockOuts.php:307
+msgid " till "
+msgstr "to"
+
+#: manageBlockOuts.php:169 manageBlockOuts.php:175
+msgid " days from "
+msgstr "päivän"
+
+#: manageBlockOuts.php:191 manageBlockOuts.php:196
+msgid "Weekly with full day Block Outs on "
+msgstr "Viikoittain koko päivän Block outtia"
+
+#: manageBlockOuts.php:192 manageBlockOuts.php:197 manageBlockOuts.php:265
+#: manageBlockOuts.php:271 manageBlockOuts.php:300 manageBlockOuts.php:306
+msgid " from "
+msgstr "alkaen"
+
+#: manageBlockOuts.php:206 manageBlockOuts.php:213 manageBlockOuts.php:299
+#: manageBlockOuts.php:305
+msgid " weeks on "
+msgstr "viikkoa"
+
+#: manageBlockOuts.php:207 manageBlockOuts.php:214
+msgid " with full day Block Outs from "
+msgstr "kanssa koko päivän Block Poistotuotteet alkaen"
+
+#: manageBlockOuts.php:249 manageBlockOuts.php:255
+msgid "Weekly from "
+msgstr "viikoittain"
+
+#: manageBlockOuts.php:265 manageBlockOuts.php:271
+msgid "Weekly on "
+msgstr "viikoittain"
+
+#: manageBlockOuts.php:284 manageBlockOuts.php:290
+msgid " weeks from "
+msgstr "viikkoa"
+
+#: manageBlockOuts.php:316
+msgid "Delete Block Out"
+msgstr "poistaa sulkea pois"
+
+#: manageBookingForm.php:14
+msgid "FORM SETUP"
+msgstr "lomake asennus"
+
+#: manageBookingForm.php:25 manageReportBug.php:20
+msgid "Success! The Email has been sent."
+msgstr "Menestys!Sähköposti on lähetetty."
+
+#: manageBookingForm.php:32
+msgid "Success! The Booking Fields has been updated."
+msgstr "Menestys!Varaus kentät on päivitetty."
+
+#: manageBookingForm.php:38 menus.php:38
+msgid "Form Setup"
+msgstr "lomake Setup"
+
+#: manageBookingForm.php:47
+msgid "Field Name"
+msgstr "kentän nimi"
+
+#: manageBookingForm.php:50
+msgid "Visibility"
+msgstr "näkyvyys"
+
+#: manageBookingForm.php:53
+msgid "Validation"
+msgstr "validointi"
+
+#: manageBookingForm.php:103 manageBookingForm.php:124
+msgid "Visible"
+msgstr "näkyvä"
+
+#: manageBookingForm.php:106 manageBookingForm.php:127
+msgid "Invisible"
+msgstr "näkymätön"
+
+#: manageBookingForm.php:111 manageBookingForm.php:132
+msgid "Required"
+msgstr "Pakollinen"
+
+#: manageBookingForm.php:114 manageBookingForm.php:135
+msgid "Not Required"
+msgstr "ei tarvita"
+
+#: manageBookings.php:14 menus.php:13
+msgid "Bookings"
+msgstr "varaukset"
+
+#: manageBookings.php:24
+msgid "Advanced Booking Filter"
+msgstr "Advanced varaus Filter"
+
+#: manageBookings.php:30 menus.php:18
+msgid "Services"
+msgstr "palvelut"
+
+#: manageBookings.php:44
+msgid "All Services"
+msgstr "kaikki palvelut"
+
+#: manageBookings.php:61
+msgid "Bookings Status"
+msgstr "varaukset tila"
+
+#: manageBookings.php:75
+msgid "Booking Calendar"
+msgstr "varauskalenteri"
+
+#: manageClients.php:14
+msgid "CLIENTS"
+msgstr "ASIAKKAAT"
+
+#: manageClients.php:24 menus.php:28
+msgid "Clients"
+msgstr "asiakkaat"
+
+#: manageClients.php:32
+msgid "First Name"
+msgstr "Etunimi"
+
+#: manageClients.php:33
+msgid "Last Name"
+msgstr "Sukunimi"
+
+#: manageClients.php:34
+msgid "Email Address"
+msgstr "Sähköpostiosoite"
+
+#: manageClients.php:36
+msgid "City"
+msgstr "kaupunki"
+
+#: manageClients.php:37
+msgid "Country"
+msgstr "maa"
+
+#: manageClients.php:62
+msgid "Edit Client?"
+msgstr "Muokkaa Client?"
+
+#: manageClients.php:63
+msgid "Email Client?"
+msgstr "Sähköpostiohjelma?"
+
+#: manageClients.php:68 manageClients.php:152
+msgid "Payment Details"
+msgstr "Maksutiedot"
+
+#: manageClients.php:72
+msgid "Booking Details"
+msgstr "varaus tiedot"
+
+#: manageClients.php:73
+msgid "Delete Client"
+msgstr "Poista Client"
+
+#: manageClients.php:102
+msgid "Edit Customer "
+msgstr "Muokkaa Asiakaspalvelu"
+
+#: manageClients.php:132
+msgid "Customer Bookings"
+msgstr "asiakas Varaukset"
+
+#: manageClients.php:172
+msgid "Email Customer "
+msgstr "Lähetä Ota"
+
+#: manageClients.php:180
+msgid "Success! Email has been sent."
+msgstr "Menestys! Sähköposti on lähetetty."
+
+#: manageClients.php:189 manageEmailTemplate.php:49
+#: manageEmailTemplate.php:104 manageEmailTemplate.php:159
+#: manageEmailTemplate.php:214 manageEmailTemplate.php:269
+msgid "Email Subject :"
+msgstr "Sähköposti Aihe:"
+
+#: manageClients.php:197 manageEmailTemplate.php:57
+#: manageEmailTemplate.php:112 manageEmailTemplate.php:167
+#: manageEmailTemplate.php:222 manageEmailTemplate.php:277
+msgid "Email Content :"
+msgstr "Sähköposti Sisältö:"
+
+#: manageClients.php:211
+msgid "Send Email"
+msgstr "Lähetä sähköpostia"
+
+#: manageClients.php:374
+msgid "You cannot delete this Customer until all Bookings have been deleted."
+msgstr "Et voi poistaa tätä Customer kunnes kaikki varaukset on poistettu."
+
+#: manageCoupons.php:14 manageCoupons.php:24
+msgid "COUPONS"
+msgstr "kuponkeja"
+
+#: manageCoupons.php:31
+msgid "Discount Coupon"
+msgstr "Alennuskuponki"
+
+#: manageCoupons.php:32
+msgid "Valid From"
+msgstr "voimassa"
+
+#: manageCoupons.php:33
+msgid "Valid Upto"
+msgstr "voimassa Jopa"
+
+#: manageCoupons.php:34 manageCoupons.php:137
+msgid "Amount"
+msgstr "määrä"
+
+#: manageCoupons.php:35
+msgid "Amount Type"
+msgstr "määrä Tyyppi"
+
+#: manageCoupons.php:36
+msgid "Apply to All"
+msgstr "Käytä kaikissa"
+
+#: manageCoupons.php:141
+msgid "Percentage"
+msgstr "osuus"
+
+#: manageCoupons.php:148
+msgid "Yes"
+msgstr "kyllä"
+
+#: manageCoupons.php:152
+msgid "No"
+msgstr "ei"
+
+#: manageCoupons.php:175
+msgid "Delete Coupon"
+msgstr "Poista kuponki"
+
+#: manageEmailTemplate.php:14
+msgid "EMAIL TEMPLATES"
+msgstr "email malleja"
+
+#: manageEmailTemplate.php:25 manageEmailTemplate.php:81
+#: manageEmailTemplate.php:136 manageEmailTemplate.php:191
+#: manageEmailTemplate.php:246
+msgid "Success! The Email has been saved."
+msgstr "Menestys!Sähköposti on tallennettu."
+
+#: manageEmailTemplate.php:42
+msgid "Approval Pending Email Template [Sent to Client]"
+msgstr "Odottaa hyväksyntää Sähköpostimalli [Lähetetyt Client]"
+
+#: manageEmailTemplate.php:97
+msgid "Approved Email Template [Sent to Client]"
+msgstr "Hyväksytty Sähköpostimalli [Lähetetyt Client]"
+
+#: manageEmailTemplate.php:152
+msgid "Disapproved Email Template [Sent to Client]"
+msgstr "Hylätty Sähköpostimalli [Lähetetyt Client]"
+
+#: manageEmailTemplate.php:207
+msgid "Approve/Disapprove Email Template [Sent to Admin]"
+msgstr "Hyväksy / Hylkää Sähköpostimalli [Lähetetyt Admin]"
+
+#: manageEmailTemplate.php:262
+msgid "Paypal Admin Notification Email Template [Sent to Admin]"
+msgstr "Paypal Admin Ilmoitus Sähköpostimalli [Lähetetyt Admin]"
+
+#: manageReportBug.php:11
+msgid "REPORT A BUG"
+msgstr "Ilmoita virheestä"
+
+#: manageReportBug.php:25 menus.php:48
+msgid "Report a Bug"
+msgstr "Ilmoita Bug"
+
+#: manageReportBug.php:31
+msgid "Your Email :"
+msgstr "Sähköposti:"
+
+#: manageReportBug.php:37
+msgid "Subject :"
+msgstr "Aihe:"
+
+#: manageReportBug.php:43
+msgid "Bug / Issue :"
+msgstr "bug / kysymys:"
+
+#: manageReportBug.php:50
+msgid "Report It!"
+msgstr "Ilmoita se!"
+
+#: manageServices.php:14 manageServices.php:24
+msgid "SERVICES"
+msgstr "PALVELUT"
+
+#: manageServices.php:31
+msgid "Service Display Order"
+msgstr "Service Näyttöjärjestys"
+
+#: manageServices.php:36
+msgid "FullDay"
+msgstr "koko päivän"
+
+#: manageServices.php:37
+msgid "Time"
+msgstr "aika"
+
+#: manageServices.php:38
+msgid "Business Hours"
+msgstr "Muokkaa palvelu?"
+
+#: manageServices.php:121
+msgid " Hrs "
+msgstr "tuntia"
+
+#: manageServices.php:176
+msgid "Edit Service?"
+msgstr "Muokkaa palvelu?"
+
+#: manageServices.php:176
+msgid "Delete Service?"
+msgstr "Poista palvelu?"
+
+#: manageServices.php:190
+msgid "Update Existing Service"
+msgstr "Päivitä nykyinen palvelu"
+
+#: manageServices.php:196
+msgid "Success! The Service has been updated Successfully."
+msgstr "Menestys!Palvelu on päivitetty onnistuneesti."
+
+#: manageServices.php:270
+msgid "Are you sure you want to delete this Service"
+msgstr "Oletko varma, että haluat poistaa tämän Booking?"
+
+#: manageServices.php:285
+msgid ""
+"Unfortunately, this service could not be deleted until all bookings are "
+"deleted."
+msgstr "Tätä palvelua ei voi poistaa ennen deallokoida työntekijöiltä."
+
+#: menus.php:43
+msgid "Email Templates"
+msgstr "Sähköposti Mallit"
+
+#: menus.php:59
+msgid "Overview Stats"
+msgstr "Katsaus Stats"
+
+#: menus.php:62
+msgid "Total Bookings"
+msgstr "Yhteensä Varaukset"
+
+#: menus.php:68
+msgid "Total Services"
+msgstr "Yhteensä Palvelut"
+
+#: menus.php:74
+msgid "Total Clients"
+msgstr "Yhteensä Asiakkaat"
+
+#: menus.php:80
+msgid "Total Coupons"
+msgstr "Yhteensä kuponkeja"
+
+#: menus.php:86
+msgid "Total BlockOuts"
+msgstr "Yhteensä BlockOuts"
+
+#: menus.php:109
+msgid "Bookings Today"
+msgstr "varaukset Tänään"
